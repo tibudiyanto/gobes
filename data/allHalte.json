@@ -9,7 +9,8 @@
     "priority": 1,
     "timetable": "<style>#tableDataBrowse td { padding:0; margin:0; text-align: center;font-weight:600;}</style><p style=\"text-align: center;\"><strong>Timetable Keberangkatan</strong></p>\r\n<table id=\"tableDataBrowse\" class=\"table table-bordered\">\r\n<tbody>\r\n<tr>\r\n<td>05:30</td>\r\n<td>05:41</td>\r\n<td>05:52</td>\r\n<td>06:03</td>\r\n<td>06:14</td>\r\n<td>06:25</td>\r\n</tr>\r\n<tr>\r\n<td>06:36</td>\r\n<td>06:47</td>\r\n<td>06:58</td>\r\n<td>07:09</td>\r\n<td>07:20</td>\r\n<td>07:31</td>\r\n</tr>\r\n<tr>\r\n<td>07:42</td>\r\n<td>07:53</td>\r\n<td>08:04</td>\r\n<td>08:15</td>\r\n<td>08:26</td>\r\n<td>08:37</td>\r\n</tr>\r\n<tr>\r\n<td>08:48</td>\r\n<td>08:59</td>\r\n<td>09:10</td>\r\n<td>09:21</td>\r\n<td>09:32</td>\r\n<td>09:43</td>\r\n</tr>\r\n<tr>\r\n<td>09:54</td>\r\n<td>10:05</td>\r\n<td>10:16</td>\r\n<td>10:27</td>\r\n<td style=\"background-color: # ffffff;\">10:38</td>\r\n<td>10:49</td>\r\n</tr>\r\n<tr>\r\n<td>11:00</td>\r\n<td>11:11</td>\r\n<td>11:22</td>\r\n<td>11:33</td>\r\n<td style=\"background-color: # ffffff;\">11:44</td>\r\n<td>11:55</td>\r\n</tr>\r\n<tr>\r\n<td>12:06</td>\r\n<td>12:17</td>\r\n<td>12:28</td>\r\n<td>12:39</td>\r\n<td style=\"background-color: # ffffff;\">12:50</td>\r\n<td>13:01</td>\r\n</tr>\r\n<tr>\r\n<td>14:18</td>\r\n<td>14:29</td>\r\n<td>14:40</td>\r\n<td style=\"background-color: # ffffff;\">14:51</td>\r\n<td style=\"background-color: # ffffff;\">15:02</td>\r\n<td>15:13</td>\r\n</tr>\r\n<tr>\r\n<td>15:24</td>\r\n<td>15:35</td>\r\n<td>15:46</td>\r\n<td style=\"background-color: # ffffff;\">15:57</td>\r\n<td style=\"background-color: # ffffff;\">16:08</td>\r\n<td>16:19</td>\r\n</tr>\r\n<tr>\r\n<td>16:30</td>\r\n<td>16:41</td>\r\n<td>16:52</td>\r\n<td style=\"background-color: # ffffff;\">17:03</td>\r\n<td style=\"background-color: # ffffff;\">17:14</td>\r\n<td>17:25</td>\r\n</tr>\r\n<tr>\r\n<td>17:36</td>\r\n<td>17:52</td>\r\n<td>18:03</td>\r\n<td style=\"background-color: # ffffff;\">18:14</td>\r\n<td style=\"background-color: # ffffff;\">18:25</td>\r\n<td>18:36</td>\r\n</tr>\r\n<tr>\r\n<td>18:47</td>\r\n<td>18:58</td>\r\n<td>19:09</td>\r\n<td style=\"background-color: # ffffff;\">19:20</td>\r\n<td style=\"background-color: # ffffff;\">19:31</td>\r\n<td>19:42</td>\r\n</tr>\r\n<tr>\r\n<td>19:53</td>\r\n<td>20:04</td>\r\n<td>*20:20</td>\r\n<td>*20:40</td>\r\n<td style=\"background-color: # ffffff;\">*21:00</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<p style=\"text-align: center;\"><strong>* Berakhir di halte Rajawali&nbsp;<br /> <span style=\"background: '#ff0000';\">&nbsp;&nbsp;<img src=\"https://upload.wikimedia.org/wikipedia/commons/b/b9/Solid_red.png\" alt=\"\" width=\"10\" height=\"10\" />&nbsp; Bus dalam masa Maintenance</span></strong></p>",
     "cuaca": "Cerah",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 1
   },
   {
     "uniqid": "5add9f844ff9c",
@@ -21,7 +22,8 @@
     "priority": 2,
     "timetable": "<style>#tableDataBrowse td { padding:0; margin:0; text-align: center;font-weight:600;}</style><p><img src=\"http://36.66.208.109/gobis/public/images/img/US/US%2012%20Unit/Dukuh%20Menanggal.jpg\" alt=\"\" width=\"100%\" height=\"100%\" /></p>",
     "cuaca": "Cerah",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 1
   },
   {
     "uniqid": "5ade955b0d24e",
@@ -33,7 +35,8 @@
     "priority": 3,
     "timetable": "",
     "cuaca": "Cerah",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 1
   },
   {
     "uniqid": "5ade985d7a056",
@@ -45,7 +48,8 @@
     "priority": 4,
     "timetable": "",
     "cuaca": "Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 1
   },
   {
     "uniqid": "5ade99b0429c3",
@@ -57,7 +61,8 @@
     "priority": 5,
     "timetable": null,
     "cuaca": "Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 1
   },
   {
     "uniqid": "5ade9a0743687",
@@ -69,7 +74,8 @@
     "priority": 6,
     "timetable": "<style>#tableDataBrowse td { padding:0; margin:0; text-align: center;font-weight:600;}</style><p><img src=\"http://36.66.208.109/gobis/public/images/img/US/US%2012%20Unit/Ubhara.jpg\" alt=\"\" width=\"100%\" height=\"100%\" /></p>",
     "cuaca": "Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 1
   },
   {
     "uniqid": "5ade9a4b55b5c",
@@ -81,7 +87,8 @@
     "priority": 7,
     "timetable": null,
     "cuaca": "Cerah Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 1
   },
   {
     "uniqid": "5ade9a7d6092a",
@@ -93,7 +100,8 @@
     "priority": 8,
     "timetable": "",
     "cuaca": "Cerah Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 1
   },
   {
     "uniqid": "5e1533fca11aa",
@@ -105,7 +113,8 @@
     "priority": 9,
     "timetable": "<style>#tableDataBrowse td { padding:0; margin:0; text-align: center;font-weight:600;}</style><p><img src=\"http://36.66.208.109/gobis/public/images/img/US/US%2012%20Unit/TIJ.jpg\" alt=\"\" width=\"100%\" height=\"100%\" /></p>",
     "cuaca": "Cerah Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 1
   },
   {
     "uniqid": "5ade9ae91ca69",
@@ -117,7 +126,8 @@
     "priority": 10,
     "timetable": null,
     "cuaca": "Cerah Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 1
   },
   {
     "uniqid": "5ade9b1c08aad",
@@ -129,7 +139,8 @@
     "priority": 11,
     "timetable": "<style>#tableDataBrowse td { padding:0; margin:0; text-align: center;font-weight:600;}</style><p><img src=\"http://36.66.208.109/gobis/public/images/img/US/US%2012%20Unit/RS%20Darmo.jpg\" alt=\"\" width=\"100%\" height=\"100%\" /></p>",
     "cuaca": "Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 1
   },
   {
     "uniqid": "5ade9b4d0edc4",
@@ -141,7 +152,8 @@
     "priority": 12,
     "timetable": "",
     "cuaca": "Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 1
   },
   {
     "uniqid": "62ba75272d9d8",
@@ -153,7 +165,8 @@
     "priority": 13,
     "timetable": "",
     "cuaca": "Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 1
   },
   {
     "uniqid": "5ade9b7c91d50",
@@ -165,7 +178,8 @@
     "priority": 14,
     "timetable": "",
     "cuaca": "Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 1
   },
   {
     "uniqid": "5ade9ba9a68e7",
@@ -177,7 +191,8 @@
     "priority": 15,
     "timetable": "<style>#tableDataBrowse td { padding:0; margin:0; text-align: center;font-weight:600;}</style><p><img src=\"http://36.66.208.109/gobis/public/images/img/US/US%2012%20Unit/Kaliasin.jpg\" alt=\"\" width=\"100%\" height=\"100%\" /></p>",
     "cuaca": "Cerah Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 1
   },
   {
     "uniqid": "5ade9bd79869b",
@@ -189,7 +204,8 @@
     "priority": 16,
     "timetable": "",
     "cuaca": "Cerah Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 1
   },
   {
     "uniqid": "5ade9c0902e77",
@@ -201,7 +217,8 @@
     "priority": 17,
     "timetable": "",
     "cuaca": "Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 1
   },
   {
     "uniqid": "5ade9c353bc99",
@@ -213,7 +230,8 @@
     "priority": 18,
     "timetable": "",
     "cuaca": "Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 1
   },
   {
     "uniqid": "5ade9c63ae46a",
@@ -225,7 +243,8 @@
     "priority": 19,
     "timetable": "<style>#tableDataBrowse td { padding:0; margin:0; text-align: center;font-weight:600;}</style><p><img src=\"http://36.66.208.109/gobis/public/images/img/US/US%2012%20Unit/Pasar%20Turi.jpg\" alt=\"\" width=\"100%\" height=\"100%\" /></p>",
     "cuaca": "Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 1
   },
   {
     "uniqid": "5ade9c92b1209",
@@ -237,7 +256,8 @@
     "priority": 20,
     "timetable": "",
     "cuaca": "Hujan Sedang",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 1
   },
   {
     "uniqid": "5ade9cbe52b3d",
@@ -249,7 +269,8 @@
     "priority": 21,
     "timetable": "",
     "cuaca": "Hujan Sedang",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 1
   },
   {
     "uniqid": "5ade9cf28b076",
@@ -261,7 +282,8 @@
     "priority": 22,
     "timetable": "<style>#tableDataBrowse td { padding:0; margin:0; text-align: center;font-weight:600;}</style><p><img src=\"http://36.66.208.109/gobis/public/images/img/US/US%2012%20Unit/RJWL.jpg\" alt=\"\" width=\"100%\" height=\"100%\" /></p>",
     "cuaca": "Hujan Sedang",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 1
   },
   {
     "uniqid": "5ade9d2305fcf",
@@ -273,7 +295,8 @@
     "priority": 23,
     "timetable": "",
     "cuaca": "Hujan Sedang",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 1
   },
   {
     "uniqid": "5ade9dc038101",
@@ -285,7 +308,8 @@
     "priority": 24,
     "timetable": "",
     "cuaca": "Hujan Sedang",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 1
   },
   {
     "uniqid": "5ade9decc0047",
@@ -297,7 +321,8 @@
     "priority": 25,
     "timetable": "",
     "cuaca": "Hujan Sedang",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 1
   },
   {
     "uniqid": "5ade9e5a01655",
@@ -309,7 +334,8 @@
     "priority": 26,
     "timetable": "<style>#tableDataBrowse td { padding:0; margin:0; text-align: center;font-weight:600;}</style><p><img src=\"http://36.66.208.109/gobis/public/images/img/US/US%2012%20Unit/Contong.jpg\" alt=\"\" width=\"100%\" height=\"100%\" /></p>",
     "cuaca": "Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 1
   },
   {
     "uniqid": "5ade9e90645a6",
@@ -321,7 +347,8 @@
     "priority": 27,
     "timetable": "",
     "cuaca": "Cerah Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 1
   },
   {
     "uniqid": "5ade9ebdc72ed",
@@ -333,7 +360,8 @@
     "priority": 28,
     "timetable": "",
     "cuaca": "Cerah Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 1
   },
   {
     "uniqid": "5ade9eec530d5",
@@ -345,7 +373,8 @@
     "priority": 29,
     "timetable": "<style>#tableDataBrowse td { padding:0; margin:0; text-align: center;font-weight:600;}</style><p><img src=\"http://36.66.208.109/gobis/public/images/img/US/US%2012%20Unit/Simpang%20Dukuh.jpg\" alt=\"\" width=\"100%\" height=\"100%\" /></p>",
     "cuaca": "Cerah Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 1
   },
   {
     "uniqid": "5ade9f22bc934",
@@ -357,7 +386,8 @@
     "priority": 30,
     "timetable": "",
     "cuaca": "Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 1
   },
   {
     "uniqid": "5ade9f551022e",
@@ -369,7 +399,8 @@
     "priority": 31,
     "timetable": "",
     "cuaca": "Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 1
   },
   {
     "uniqid": "5ade9f8fc7716",
@@ -381,7 +412,8 @@
     "priority": 32,
     "timetable": "",
     "cuaca": "Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 1
   },
   {
     "uniqid": "5adea00cd499a",
@@ -393,7 +425,8 @@
     "priority": 33,
     "timetable": "",
     "cuaca": "Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 1
   },
   {
     "uniqid": "62f50b7d21de9",
@@ -405,7 +438,8 @@
     "priority": 34,
     "timetable": "",
     "cuaca": "Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 1
   },
   {
     "uniqid": "5adea0630a8fd",
@@ -417,7 +451,8 @@
     "priority": 35,
     "timetable": "<style>#tableDataBrowse td { padding:0; margin:0; text-align: center;font-weight:600;}</style><p><img src=\"http://36.66.208.109/gobis/public/images/img/US/US%2012%20Unit/Santa%20Maria.jpg\" alt=\"\" width=\"100%\" height=\"100%\" /></p>",
     "cuaca": "Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 1
   },
   {
     "uniqid": "5adea095b30a2",
@@ -429,7 +464,8 @@
     "priority": 36,
     "timetable": "",
     "cuaca": "Cerah Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 1
   },
   {
     "uniqid": "5adea0c5aa6a4",
@@ -441,7 +477,8 @@
     "priority": 37,
     "timetable": "<style>#tableDataBrowse td { padding:0; margin:0; text-align: center;font-weight:600;}</style><p><img src=\"http://36.66.208.109/gobis/public/images/img/US/US%2012%20Unit/Marmoyo.jpg\" alt=\"\" width=\"100%\" height=\"100%\" /></p>",
     "cuaca": "Cerah Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 1
   },
   {
     "uniqid": "5adea1162bbc3",
@@ -453,7 +490,8 @@
     "priority": 38,
     "timetable": "",
     "cuaca": "Cerah Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 1
   },
   {
     "uniqid": "5adea15b3d940",
@@ -465,7 +503,8 @@
     "priority": 39,
     "timetable": "<style>#tableDataBrowse td { padding:0; margin:0; text-align: center;font-weight:600;}</style><p><img src=\"http://36.66.208.109/gobis/public/images/img/US/US%2012%20Unit/RSAL.jpg\" alt=\"\" width=\"100%\" height=\"100%\" /></p>",
     "cuaca": "Cerah Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 1
   },
   {
     "uniqid": "5adea1a4c4526",
@@ -477,7 +516,8 @@
     "priority": 40,
     "timetable": "",
     "cuaca": "Cerah Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 1
   },
   {
     "uniqid": "5adea1cdcea46",
@@ -489,7 +529,8 @@
     "priority": 41,
     "timetable": "",
     "cuaca": "Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 1
   },
   {
     "uniqid": "5adea224de9ec",
@@ -501,7 +542,8 @@
     "priority": 42,
     "timetable": "<style>#tableDataBrowse td { padding:0; margin:0; text-align: center;font-weight:600;}</style><p><img src=\"http://36.66.208.109/gobis/public/images/img/US/US%2012%20Unit/UIN.jpg\" alt=\"\" width=\"100%\" height=\"100%\" /></p>",
     "cuaca": "Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 1
   },
   {
     "uniqid": "5adea25d8a553",
@@ -513,7 +555,8 @@
     "priority": 43,
     "timetable": "",
     "cuaca": "Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 1
   },
   {
     "uniqid": "5adea2ae955b9",
@@ -525,7 +568,8 @@
     "priority": 44,
     "timetable": "",
     "cuaca": "Cerah",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 1
   },
   {
     "uniqid": "5adea2d71f75a",
@@ -537,7 +581,8 @@
     "priority": 45,
     "timetable": "<style>#tableDataBrowse td { padding:0; margin:0; text-align: center;font-weight:600;}</style><p><img src=\"http://36.66.208.109/gobis/public/images/img/US/US%2012%20Unit/Kertomenanggal.jpg\" alt=\"\" width=\"100%\" height=\"100%\" /></p>",
     "cuaca": "Cerah",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 1
   },
   {
     "uniqid": "5bac8a28f295f",
@@ -549,7 +594,8 @@
     "priority": 1,
     "timetable": "",
     "cuaca": "Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 2
   },
   {
     "uniqid": "5bac8c593647f",
@@ -561,7 +607,8 @@
     "priority": 2,
     "timetable": "",
     "cuaca": "Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 2
   },
   {
     "uniqid": "5bac950e054e3",
@@ -573,7 +620,8 @@
     "priority": 3,
     "timetable": "",
     "cuaca": "Hujan Ringan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 2
   },
   {
     "uniqid": "5ade9b1c08aad",
@@ -585,7 +633,8 @@
     "priority": 14,
     "timetable": "",
     "cuaca": "Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 2
   },
   {
     "uniqid": "5ade9b4d0edc4",
@@ -597,7 +646,8 @@
     "priority": 15,
     "timetable": "",
     "cuaca": "Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 2
   },
   {
     "uniqid": "62ba75272d9d8",
@@ -609,7 +659,8 @@
     "priority": 16,
     "timetable": "",
     "cuaca": "Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 2
   },
   {
     "uniqid": "5ade9b7c91d50",
@@ -621,7 +672,8 @@
     "priority": 17,
     "timetable": "",
     "cuaca": "Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 2
   },
   {
     "uniqid": "5ade9ba9a68e7",
@@ -633,7 +685,8 @@
     "priority": 18,
     "timetable": "",
     "cuaca": "Cerah Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 2
   },
   {
     "uniqid": "5ade9bd79869b",
@@ -645,7 +698,8 @@
     "priority": 19,
     "timetable": "",
     "cuaca": "Cerah Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 2
   },
   {
     "uniqid": "5ade9e90645a6",
@@ -657,7 +711,8 @@
     "priority": 20,
     "timetable": "",
     "cuaca": "Cerah Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 2
   },
   {
     "uniqid": "5ade9ebdc72ed",
@@ -669,7 +724,8 @@
     "priority": 21,
     "timetable": "",
     "cuaca": "Cerah Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 2
   },
   {
     "uniqid": "5ade9eec530d5",
@@ -681,7 +737,8 @@
     "priority": 22,
     "timetable": "",
     "cuaca": "Cerah Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 2
   },
   {
     "uniqid": "5ade9f22bc934",
@@ -693,7 +750,8 @@
     "priority": 23,
     "timetable": "",
     "cuaca": "Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 2
   },
   {
     "uniqid": "5bac99e600e74",
@@ -705,7 +763,8 @@
     "priority": 31,
     "timetable": "",
     "cuaca": "Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 2
   },
   {
     "uniqid": "5bac9a1b342cc",
@@ -717,7 +776,8 @@
     "priority": 32,
     "timetable": "",
     "cuaca": "Hujan Ringan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 2
   },
   {
     "uniqid": "5ade9f551022e",
@@ -729,7 +789,8 @@
     "priority": 41,
     "timetable": "",
     "cuaca": "Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 2
   },
   {
     "uniqid": "5ade9f8fc7716",
@@ -741,7 +802,8 @@
     "priority": 42,
     "timetable": "",
     "cuaca": "Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 2
   },
   {
     "uniqid": "5adea00cd499a",
@@ -753,7 +815,8 @@
     "priority": 43,
     "timetable": "",
     "cuaca": "Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 2
   },
   {
     "uniqid": "5adea0630a8fd",
@@ -765,7 +828,8 @@
     "priority": 44,
     "timetable": "",
     "cuaca": "Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 2
   },
   {
     "uniqid": "5bac9d515ee85",
@@ -777,7 +841,8 @@
     "priority": 52,
     "timetable": "",
     "cuaca": "Hujan Ringan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 2
   },
   {
     "uniqid": "5bac9d6c25bb5",
@@ -789,7 +854,8 @@
     "priority": 53,
     "timetable": "",
     "cuaca": "Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 2
   },
   {
     "uniqid": "62f50b7d21de9",
@@ -801,7 +867,8 @@
     "priority": 0,
     "timetable": "",
     "cuaca": "Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 3
   },
   {
     "uniqid": "5ae67d612cd52",
@@ -813,7 +880,8 @@
     "priority": 1,
     "timetable": "<style>#tableDataBrowse td { padding:0; margin:0; text-align: center;font-weight:600;}</style><p style=\"text-align: center;\"><strong>Timetable Keberangkatan</strong></p>\r\n<table id=\"tableDataBrowse\" class=\"table table-bordered\">\r\n<tbody>\r\n<tr>\r\n<td>06:30</td>\r\n<td style=\"border-color: #fffff;\">07:47</td>\r\n</tr>\r\n<tr>\r\n<td>08:41</td>\r\n<td style=\"border-color: #fffff;\">10:00</td>\r\n</tr>\r\n<tr>\r\n<td>10:55</td>\r\n<td style=\"border-color: #fffff;\">12:11</td>\r\n</tr>\r\n<tr>\r\n<td>13:06</td>\r\n<td style=\"border-color: #fffff;\">14:25</td>\r\n</tr>\r\n<tr>\r\n<td>15:18</td>\r\n<td style=\"border-color: #fffff;\">16:35</td>\r\n</tr>\r\n<tr>\r\n<td>17:41</td>\r\n<td style=\"border-color: #fffff;\">18:52</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<p style=\"text-align: center;\"><strong><span style=\"background: '#ff0000';\">&nbsp;&nbsp;<img src=\"https://upload.wikimedia.org/wikipedia/commons/b/b9/Solid_red.png\" alt=\"\" width=\"10\" height=\"10\" />&nbsp; Bus dalam masa Maintenance</span></strong></p>",
     "cuaca": "Cerah",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 3
   },
   {
     "uniqid": "5add9f844ff9c",
@@ -825,7 +893,8 @@
     "priority": 2,
     "timetable": "<style>#tableDataBrowse td { padding:0; margin:0; text-align: center;font-weight:600;}</style><p style=\"text-align: center;\"><strong>Timetable Keberangkatan</strong></p>\r\n<table id=\"tableDataBrowse\" class=\"table table-bordered\">\r\n<tbody>\r\n<tr style=\"height: 37px;\">\r\n<td style=\"background-color: #ff0000;\">06:38</td>\r\n<td style=\"background-color: #ffffff;\">07:55</td>\r\n</tr>\r\n<tr style=\"height: 37px;\">\r\n<td style=\"background-color: #ff0000;\">08:48</td>\r\n<td style=\"background-color: #ffffff;\">10:08</td>\r\n</tr>\r\n<tr style=\"height: 37px;\">\r\n<td style=\"background-color: #ff0000;\">11:03</td>\r\n<td style=\"background-color: #ffffff;\">12:19</td>\r\n</tr>\r\n<tr style=\"height: 37px;\">\r\n<td style=\"background-color: #ff0000;\">13:14</td>\r\n<td style=\"background-color: #ffffff;\">14:33</td>\r\n</tr>\r\n<tr style=\"height: 37px;\">\r\n<td style=\"background-color: #ff0000;\">15:26</td>\r\n<td style=\"background-color: #ffffff;\">16:43</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ff0000;\">17:49</td>\r\n<td style=\"background-color: #ffffff;\">19:00</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<p style=\"text-align: center;\"><strong><span style=\"background: '#ff0000';\">&nbsp;&nbsp;<img src=\"https://upload.wikimedia.org/wikipedia/commons/b/b9/Solid_red.png\" alt=\"\" width=\"10\" height=\"10\" />&nbsp; Bus dalam masa Maintenance</span></strong></p>",
     "cuaca": "Cerah",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 3
   },
   {
     "uniqid": "5ade955b0d24e",
@@ -837,7 +906,8 @@
     "priority": 3,
     "timetable": "",
     "cuaca": "Cerah",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 3
   },
   {
     "uniqid": "5ade985d7a056",
@@ -849,7 +919,8 @@
     "priority": 4,
     "timetable": "",
     "cuaca": "Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 3
   },
   {
     "uniqid": "5ade99b0429c3",
@@ -861,7 +932,8 @@
     "priority": 5,
     "timetable": null,
     "cuaca": "Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 3
   },
   {
     "uniqid": "5ade9a0743687",
@@ -873,7 +945,8 @@
     "priority": 6,
     "timetable": "",
     "cuaca": "Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 3
   },
   {
     "uniqid": "5ade9a4b55b5c",
@@ -885,7 +958,8 @@
     "priority": 7,
     "timetable": null,
     "cuaca": "Cerah Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 3
   },
   {
     "uniqid": "5ade9a7d6092a",
@@ -897,7 +971,8 @@
     "priority": 8,
     "timetable": "",
     "cuaca": "Cerah Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 3
   },
   {
     "uniqid": "5ade9aba20c0a",
@@ -909,7 +984,8 @@
     "priority": 9,
     "timetable": "<style>#tableDataBrowse td { padding:0; margin:0; text-align: center;font-weight:600;}</style><p style=\"text-align: center;\"><strong>Timetable Keberangkatan</strong></p>\r\n<table id=\"tableDataBrowse\" class=\"table table-bordered\">\r\n<tbody>\r\n<tr>\r\n<td style=\"background-color: #ff0000;\">06:52</td>\r\n<td style=\"background-color: #ffffff;\">08:09</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ff0000;\">09:04</td>\r\n<td style=\"background-color: #ffffff;\">10:23</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ff0000;\">11:18</td>\r\n<td style=\"background-color: #ffffff;\">12:34</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ff0000;\">13:29</td>\r\n<td style=\"background-color: #ffffff;\">14:48</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ff0000;\">15:41</td>\r\n<td style=\"background-color: #ffffff;\">16:58</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ff0000;\">18:03</td>\r\n<td style=\"background-color: #ffffff;\">19:41</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<p style=\"text-align: center;\"><strong><span style=\"background: '#ff0000';\">&nbsp;&nbsp;<img src=\"https://upload.wikimedia.org/wikipedia/commons/b/b9/Solid_red.png\" alt=\"\" width=\"10\" height=\"10\" />&nbsp; Bus dalam masa Maintenance</span></strong></p>",
     "cuaca": "Cerah Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 3
   },
   {
     "uniqid": "5ade9ae91ca69",
@@ -921,7 +997,8 @@
     "priority": 10,
     "timetable": null,
     "cuaca": "Cerah Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 3
   },
   {
     "uniqid": "5ade9b1c08aad",
@@ -933,7 +1010,8 @@
     "priority": 11,
     "timetable": "<style>#tableDataBrowse td { padding:0; margin:0; text-align: center;font-weight:600;}</style><p style=\"text-align: center;\"><strong>Timetable Keberangkatan</strong></p>\r\n<table id=\"tableDataBrowse\" class=\"table table-bordered\">\r\n<tbody>\r\n<tr>\r\n<td style=\"background-color: #ff0000;\">06:58</td>\r\n<td style=\"background-color: #ffffff;\">08:15</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ff0000;\">09:10</td>\r\n<td style=\"background-color: #ffffff;\">10:29</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ff0000;\">11:24</td>\r\n<td style=\"background-color: #ffffff;\">12:40</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ff0000;\">13:35</td>\r\n<td style=\"background-color: #ffffff;\">14:54</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ff0000;\">15:47</td>\r\n<td style=\"background-color: #ffffff;\">17:04</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ff0000;\">18:09</td>\r\n<td style=\"background-color: #ffffff;\">19:20</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<p style=\"text-align: center;\"><strong><span style=\"background: '#ff0000';\">&nbsp;&nbsp;<img src=\"https://upload.wikimedia.org/wikipedia/commons/b/b9/Solid_red.png\" alt=\"\" width=\"10\" height=\"10\" />&nbsp; Bus dalam masa Maintenance</span></strong></p>",
     "cuaca": "Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 3
   },
   {
     "uniqid": "5ade9b4d0edc4",
@@ -945,7 +1023,8 @@
     "priority": 12,
     "timetable": "",
     "cuaca": "Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 3
   },
   {
     "uniqid": "62ba75272d9d8",
@@ -957,7 +1036,8 @@
     "priority": 13,
     "timetable": "",
     "cuaca": "Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 3
   },
   {
     "uniqid": "5ade9b7c91d50",
@@ -969,7 +1049,8 @@
     "priority": 14,
     "timetable": "",
     "cuaca": "Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 3
   },
   {
     "uniqid": "5ade9ba9a68e7",
@@ -981,7 +1062,8 @@
     "priority": 15,
     "timetable": "<style>#tableDataBrowse td { padding:0; margin:0; text-align: center;font-weight:600;}</style><p style=\"text-align: center;\"><strong>Timetable Keberangkatan</strong></p>\r\n<table id=\"tableDataBrowse\" class=\"table table-bordered\">\r\n<tbody>\r\n<tr>\r\n<td style=\"background-color: #ff0000;\">07:06</td>\r\n<td style=\"background-color: #ffffff;\">08:23</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ff0000;\">09:18</td>\r\n<td style=\"background-color: #ffffff;\">10:37</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ff0000;\">11:32</td>\r\n<td style=\"background-color: #ffffff;\">12:48</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ff0000;\">13:43</td>\r\n<td style=\"background-color: #ffffff;\">15:02</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ff0000;\">15:55</td>\r\n<td style=\"background-color: #ffffff;\">17:12</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ff0000;\">18:17</td>\r\n<td style=\"background-color: #ffffff;\">19:28</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<p style=\"text-align: center;\"><strong><span style=\"background: '#ff0000';\">&nbsp;&nbsp;<img src=\"https://upload.wikimedia.org/wikipedia/commons/b/b9/Solid_red.png\" alt=\"\" width=\"10\" height=\"10\" />&nbsp; Bus dalam masa Maintenance</span></strong></p>",
     "cuaca": "Cerah Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 3
   },
   {
     "uniqid": "5ade9bd79869b",
@@ -993,7 +1075,8 @@
     "priority": 16,
     "timetable": "",
     "cuaca": "Cerah Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 3
   },
   {
     "uniqid": "5ade9c0902e77",
@@ -1005,7 +1088,8 @@
     "priority": 17,
     "timetable": "",
     "cuaca": "Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 3
   },
   {
     "uniqid": "5ade9c353bc99",
@@ -1017,7 +1101,8 @@
     "priority": 18,
     "timetable": "",
     "cuaca": "Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 3
   },
   {
     "uniqid": "5ade9e5a01655",
@@ -1029,7 +1114,8 @@
     "priority": 19,
     "timetable": "",
     "cuaca": "Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 3
   },
   {
     "uniqid": "5ade9e90645a6",
@@ -1041,7 +1127,8 @@
     "priority": 20,
     "timetable": "",
     "cuaca": "Cerah Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 3
   },
   {
     "uniqid": "5ade9ebdc72ed",
@@ -1053,7 +1140,8 @@
     "priority": 21,
     "timetable": "",
     "cuaca": "Cerah Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 3
   },
   {
     "uniqid": "5ade9eec530d5",
@@ -1065,7 +1153,8 @@
     "priority": 22,
     "timetable": "<style>#tableDataBrowse td { padding:0; margin:0; text-align: center;font-weight:600;}</style><p style=\"text-align: center;\"><strong>Timetable Keberangkatan</strong></p>\r\n<table id=\"tableDataBrowse\" class=\"table table-bordered\">\r\n<tbody>\r\n<tr>\r\n<td style=\"background-color: #ff0000;\">07:25</td>\r\n<td style=\"background-color: #ffffff;\">08:42</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ff0000;\">09:37</td>\r\n<td style=\"background-color: #ffffff;\">10:56</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ff0000;\">11:51</td>\r\n<td style=\"background-color: #ffffff;\">13:07</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ff0000;\">14:02</td>\r\n<td style=\"background-color: #ffffff;\">15:21</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ff0000;\">16:14</td>\r\n<td style=\"background-color: #ffffff;\">17:31</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ff0000;\">18:36</td>\r\n<td style=\"background-color: #ffffff;\">19:47</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<p style=\"text-align: center;\"><strong><span style=\"background: '#ff0000';\">&nbsp;&nbsp;<img src=\"https://upload.wikimedia.org/wikipedia/commons/b/b9/Solid_red.png\" alt=\"\" width=\"10\" height=\"10\" />&nbsp; Bus dalam masa Maintenance</span></strong></p>",
     "cuaca": "Cerah Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 3
   },
   {
     "uniqid": "5ade9f22bc934",
@@ -1077,7 +1166,8 @@
     "priority": 23,
     "timetable": "",
     "cuaca": "Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 3
   },
   {
     "uniqid": "5ade9f551022e",
@@ -1089,7 +1179,8 @@
     "priority": 24,
     "timetable": "<style>#tableDataBrowse td { padding:0; margin:0; text-align: center;font-weight:600;}</style><p style=\"text-align: center;\"><strong>Timetable Keberangkatan</strong></p>\r\n<table id=\"tableDataBrowse\" class=\"table table-bordered\">\r\n<tbody>\r\n<tr>\r\n<td style=\"background-color: #ff0000;\">07:28</td>\r\n<td style=\"background-color: #ffffff;\">08:45</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ff0000;\">09:40</td>\r\n<td style=\"background-color: #ffffff;\">10:59</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ff0000;\">11:54</td>\r\n<td style=\"background-color: #ffffff;\">13:10</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ff0000;\">14:05</td>\r\n<td style=\"background-color: #ffffff;\">15:24</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ff0000;\">16:17</td>\r\n<td style=\"background-color: #ffffff;\">17:34</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ff0000;\">18:39</td>\r\n<td style=\"background-color: #ffffff;\">19:52</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<p style=\"text-align: center;\"><strong><span style=\"background: '#ff0000';\">&nbsp;&nbsp;<img src=\"https://upload.wikimedia.org/wikipedia/commons/b/b9/Solid_red.png\" alt=\"\" width=\"10\" height=\"10\" />&nbsp; Bus dalam masa Maintenance</span></strong></p>",
     "cuaca": "Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 3
   },
   {
     "uniqid": "5ade9f8fc7716",
@@ -1101,7 +1192,8 @@
     "priority": 25,
     "timetable": "",
     "cuaca": "Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 3
   },
   {
     "uniqid": "5adea00cd499a",
@@ -1113,7 +1205,8 @@
     "priority": 26,
     "timetable": "",
     "cuaca": "Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 3
   },
   {
     "uniqid": "5adea0630a8fd",
@@ -1125,7 +1218,8 @@
     "priority": 27,
     "timetable": "<style>#tableDataBrowse td { padding:0; margin:0; text-align: center;font-weight:600;}</style><p style=\"text-align: center;\"><strong>Timetable Keberangkatan</strong></p>\r\n<table id=\"tableDataBrowse\" class=\"table table-bordered\">\r\n<tbody>\r\n<tr>\r\n<td style=\"background-color: #ff0000;\">07:34</td>\r\n<td style=\"background-color: #ffffff;\">08:51</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ff0000;\">09:46</td>\r\n<td style=\"background-color: #ffffff;\">11:05</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ff0000;\">12:00</td>\r\n<td style=\"background-color: #ffffff;\">13:16</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ff0000;\">14:11</td>\r\n<td style=\"background-color: #ffffff;\">15:30</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ff0000;\">16:23</td>\r\n<td style=\"background-color: #ffffff;\">17:40</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ff0000;\">18:45</td>\r\n<td style=\"background-color: #ffffff;\">19:56</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<p style=\"text-align: center;\"><strong><span style=\"background: '#ff0000';\">&nbsp;&nbsp;<img src=\"https://upload.wikimedia.org/wikipedia/commons/b/b9/Solid_red.png\" alt=\"\" width=\"10\" height=\"10\" />&nbsp; Bus dalam masa Maintenance</span></strong></p>",
     "cuaca": "Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 3
   },
   {
     "uniqid": "5adea095b30a2",
@@ -1137,7 +1231,8 @@
     "priority": 28,
     "timetable": "",
     "cuaca": "Cerah Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 3
   },
   {
     "uniqid": "5adea0c5aa6a4",
@@ -1149,7 +1244,8 @@
     "priority": 29,
     "timetable": "",
     "cuaca": "Cerah Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 3
   },
   {
     "uniqid": "5adea1162bbc3",
@@ -1161,7 +1257,8 @@
     "priority": 30,
     "timetable": "",
     "cuaca": "Cerah Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 3
   },
   {
     "uniqid": "5adea15b3d940",
@@ -1173,7 +1270,8 @@
     "priority": 31,
     "timetable": "<style>#tableDataBrowse td { padding:0; margin:0; text-align: center;font-weight:600;}</style><p style=\"text-align: center;\"><strong>Timetable Keberangkatan</strong></p>\r\n<table id=\"tableDataBrowse\" class=\"table table-bordered\">\r\n<tbody>\r\n<tr>\r\n<td style=\"background-color: #ff0000;\">07:44</td>\r\n<td style=\"background-color: #ffffff;\">09:01</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ff0000;\">09:58</td>\r\n<td style=\"background-color: #ffffff;\">11:17</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ff0000;\">12:12</td>\r\n<td style=\"background-color: #ffffff;\">13:28</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ff0000;\">14:23</td>\r\n<td style=\"background-color: #ffffff;\">15:42</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ff0000;\">16:35</td>\r\n<td style=\"background-color: #ffffff;\">17:52</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ff0000;\">18:55</td>\r\n<td style=\"background-color: #ffffff;\">20:06</td>\r\n</tr>\r\n</tbody>\r\n</table>",
     "cuaca": "Cerah Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 3
   },
   {
     "uniqid": "5adea1a4c4526",
@@ -1185,7 +1283,8 @@
     "priority": 32,
     "timetable": "",
     "cuaca": "Cerah Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 3
   },
   {
     "uniqid": "5adea1cdcea46",
@@ -1197,7 +1296,8 @@
     "priority": 33,
     "timetable": "",
     "cuaca": "Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 3
   },
   {
     "uniqid": "5adea224de9ec",
@@ -1209,7 +1309,8 @@
     "priority": 34,
     "timetable": "",
     "cuaca": "Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 3
   },
   {
     "uniqid": "5adea25d8a553",
@@ -1221,7 +1322,8 @@
     "priority": 35,
     "timetable": "",
     "cuaca": "Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 3
   },
   {
     "uniqid": "5adea2ae955b9",
@@ -1233,7 +1335,8 @@
     "priority": 36,
     "timetable": "",
     "cuaca": "Cerah",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 3
   },
   {
     "uniqid": "5adea2d71f75a",
@@ -1245,7 +1348,8 @@
     "priority": 37,
     "timetable": "",
     "cuaca": "Cerah",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 3
   },
   {
     "uniqid": "5d5369a39c9cb",
@@ -1257,7 +1361,8 @@
     "priority": 1,
     "timetable": "",
     "cuaca": "Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 4
   },
   {
     "uniqid": "5d5369d7ba9b5",
@@ -1269,7 +1374,8 @@
     "priority": 2,
     "timetable": "<style>#tableDataBrowse td { padding:0; margin:0; text-align: center;font-weight:600;}</style><p style=\"text-align: center;\"><strong>Timetable Keberangkatan</strong></p>\r\n<table id=\"tableDataBrowse\" class=\"table table-bordered\">\r\n<tbody>\r\n<tr>\r\n<td>&nbsp;</td>\r\n<td>&nbsp;</td>\r\n<td style=\"background-color: #ffffff;\">05:49</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff;\">06:38</td>\r\n<td style=\"background-color: # ffffff;\">07:16</td>\r\n<td style=\"background-color: #ffffff;\">07:54</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff;\">08:31</td>\r\n<td style=\"background-color: # ffffff;\">09:09</td>\r\n<td style=\"background-color: #ffffff;\">09:47</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff;\">10:24</td>\r\n<td style=\"background-color: # ffffff;\">11:02</td>\r\n<td style=\"background-color: #ffffff;\">11:40</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff;\">12:17</td>\r\n<td style=\"background-color: # ffffff;\">12:55</td>\r\n<td style=\"background-color: #ffffff;\">13:33</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff;\">14:08</td>\r\n<td style=\"background-color: # ffffff;\">14:46</td>\r\n<td style=\"background-color: #ffffff;\">15:24</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff;\">16:01</td>\r\n<td style=\"background-color: # ffffff;\">16:39</td>\r\n<td style=\"background-color: #ffffff;\">17:17</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: # ffffff;\">17:54</td>\r\n<td style=\"background-color: # ffffff;\">18:32</td>\r\n<td style=\"background-color: # ffffff;\">19:10</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff;\">19:47</td>\r\n<td style=\"background-color: # ffffff;\">20:25</td>\r\n<td style=\"background-color: # ffffff;\">21:03</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<p style=\"text-align: center;\"><span style=\"background: '#ff0000';\">&nbsp;&nbsp;<img src=\"https://upload.wikimedia.org/wikipedia/commons/b/b9/Solid_red.png\" alt=\"\" width=\"10\" height=\"10\" />&nbsp; Bus dalam masa maintenance </span></p>",
     "cuaca": "Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 4
   },
   {
     "uniqid": "5d536ec022082",
@@ -1281,7 +1387,8 @@
     "priority": 3,
     "timetable": "",
     "cuaca": "Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 4
   },
   {
     "uniqid": "5d536f48f3dcb",
@@ -1293,7 +1400,8 @@
     "priority": 6,
     "timetable": "",
     "cuaca": "Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 4
   },
   {
     "uniqid": "5d536f7439112",
@@ -1305,7 +1413,8 @@
     "priority": 7,
     "timetable": "<style>#tableDataBrowse td { padding:0; margin:0; text-align: center;font-weight:600;}</style><p style=\"text-align: center;\"><strong>Timetable Keberangkatan</strong></p>\r\n<table id=\"tableDataBrowse\" class=\"table table-bordered\">\r\n<tbody>\r\n<tr>\r\n<td>&nbsp;</td>\r\n<td>&nbsp;</td>\r\n<td style=\"background-color: #ffffff;\">06:00</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff;\">06:52</td>\r\n<td style=\"background-color: # ffffff;\">07:30</td>\r\n<td style=\"background-color: #ffffff;\">08:07</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff;\">08:45</td>\r\n<td style=\"background-color: # ffffff;\">09:23</td>\r\n<td style=\"background-color: #ffffff;\">10:00</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff;\">10:38</td>\r\n<td style=\"background-color: # ffffff;\">11:16</td>\r\n<td style=\"background-color: #ffffff;\">11:53</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff;\">12:31</td>\r\n<td style=\"background-color: # ffffff;\">13:09</td>\r\n<td style=\"background-color: #ffffff;\">13:46</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff;\">14:22</td>\r\n<td style=\"background-color: # ffffff;\">15:00</td>\r\n<td style=\"background-color: #ffffff;\">15:37</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff;\">16:15</td>\r\n<td style=\"background-color: # ffffff;\">16:53</td>\r\n<td style=\"background-color: #ffffff;\">17:30</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: # ffffff;\">18:08</td>\r\n<td style=\"background-color: # ffffff;\">18:46</td>\r\n<td style=\"background-color: # ffffff;\">19:23</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff;\">20:01</td>\r\n<td style=\"background-color: # ffffff;\">20:39</td>\r\n<td style=\"background-color: # ffffff;\">21:16</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<p style=\"text-align: center;\"><span style=\"background: '#ff0000';\">&nbsp;&nbsp;<img src=\"https://upload.wikimedia.org/wikipedia/commons/b/b9/Solid_red.png\" alt=\"\" width=\"10\" height=\"10\" />&nbsp; Bus dalam masa maintenance </span></p>",
     "cuaca": "Hujan Ringan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 4
   },
   {
     "uniqid": "5d536f9c4b1cd",
@@ -1317,7 +1426,8 @@
     "priority": 8,
     "timetable": null,
     "cuaca": "Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 4
   },
   {
     "uniqid": "5d536fe7e56d0",
@@ -1329,7 +1439,8 @@
     "priority": 9,
     "timetable": "<style>#tableDataBrowse td { padding:0; margin:0; text-align: center;font-weight:600;}</style><p style=\"text-align: center;\"><strong>Timetable Keberangkatan</strong></p>\r\n<table id=\"tableDataBrowse\" class=\"table table-bordered\">\r\n<tbody>\r\n<tr>\r\n<td>&nbsp;</td>\r\n<td>&nbsp;</td>\r\n<td style=\"background-color: #ffffff;\">06:06</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff;\">06:57</td>\r\n<td style=\"background-color: # ffffff;\">07:35</td>\r\n<td style=\"background-color: #ffffff;\">08:13</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff;\">08:50</td>\r\n<td style=\"background-color: # ffffff;\">09:28</td>\r\n<td style=\"background-color: #ffffff;\">10:06</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff;\">10:43</td>\r\n<td style=\"background-color: # ffffff;\">11:21</td>\r\n<td style=\"background-color: #ffffff;\">11:59</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff;\">12:36</td>\r\n<td style=\"background-color: # ffffff;\">13:14</td>\r\n<td style=\"background-color: #ffffff;\">13:52</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff;\">14:27</td>\r\n<td style=\"background-color: # ffffff;\">15:05</td>\r\n<td style=\"background-color: #ffffff;\">15:43</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff;\">16:20</td>\r\n<td style=\"background-color: # ffffff;\">16:58</td>\r\n<td style=\"background-color: #ffffff;\">17:36</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: # ffffff;\">18:13</td>\r\n<td style=\"background-color: # ffffff;\">18:51</td>\r\n<td style=\"background-color: # ffffff;\">19:29</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff;\">20:06</td>\r\n<td style=\"background-color: # ffffff;\">20:44</td>\r\n<td style=\"background-color: # ffffff;\">21:22</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<p style=\"text-align: center;\"><span style=\"background: '#ff0000';\">&nbsp;&nbsp;<img src=\"https://upload.wikimedia.org/wikipedia/commons/b/b9/Solid_red.png\" alt=\"\" width=\"10\" height=\"10\" />&nbsp; Bus dalam masa maintenance </span></p>",
     "cuaca": "Cerah Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 4
   },
   {
     "uniqid": "5d53700cbec35",
@@ -1341,7 +1452,8 @@
     "priority": 10,
     "timetable": null,
     "cuaca": "Cerah",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 4
   },
   {
     "uniqid": "5d53709fbb220",
@@ -1353,7 +1465,8 @@
     "priority": 11,
     "timetable": null,
     "cuaca": "Cerah",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 4
   },
   {
     "uniqid": "5e5b4cd71cf9a",
@@ -1365,7 +1478,8 @@
     "priority": 12,
     "timetable": null,
     "cuaca": "Cerah",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 4
   },
   {
     "uniqid": "5d5370d198861",
@@ -1377,7 +1491,8 @@
     "priority": 13,
     "timetable": "",
     "cuaca": "Cerah",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 4
   },
   {
     "uniqid": "5d5370f9ddc66",
@@ -1389,7 +1504,8 @@
     "priority": 14,
     "timetable": "",
     "cuaca": "Cerah",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 4
   },
   {
     "uniqid": "5e5b4d05c17fe",
@@ -1401,7 +1517,8 @@
     "priority": 15,
     "timetable": "<style>#tableDataBrowse td { padding:0; margin:0; text-align: center;font-weight:600;}</style><p style=\"text-align: center;\"><strong>Timetable Keberangkatan</strong></p>\r\n<table id=\"tableDataBrowse\" class=\"table table-bordered\">\r\n<tbody>\r\n<tr>\r\n<td style=\"background-color: #ffffff;\">05:30</td>\r\n<td style=\"background-color: # ffffff;\">06:07</td>\r\n<td style=\"background-color: #ffffff;\">06:45</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff;\">07:23</td>\r\n<td style=\"background-color: # ffffff;\">08:00</td>\r\n<td style=\"background-color: #ffffff;\">08:38</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: # ffffff;\">09:16</td>\r\n<td style=\"background-color: # ffffff;\">09:53</td>\r\n<td style=\"background-color: #ffffff;\">10:31</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: # ffffff;\">11:09</td>\r\n<td style=\"background-color: # ffffff;\">11:46</td>\r\n<td style=\"background-color: #ffffff;\">12:24</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff;\">13:00</td>\r\n<td style=\"background-color: # ffffff;\">13:37</td>\r\n<td style=\"background-color: #ffffff;\">14:15</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff;\">14:53</td>\r\n<td style=\"background-color: # ffffff;\">15:30</td>\r\n<td style=\"background-color: #ffffff;\">16:08</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff;\">16:46</td>\r\n<td style=\"background-color: # ffffff;\">17:23</td>\r\n<td style=\"background-color: # ffffff;\">18:01</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff;\">18:39</td>\r\n<td style=\"background-color: # ffffff;\">19:16</td>\r\n<td style=\"background-color: # ffffff;\">19:54</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff;\">* 20:32</td>\r\n<td style=\"background-color: # ffffff;\">* 21:09</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<p style=\"text-align: center;\"><strong>* Berakhir di halte Gunung Anyar Timur 1&nbsp;<br /> <span style=\"background: '#ff0000';\">&nbsp;&nbsp;<img src=\"https://upload.wikimedia.org/wikipedia/commons/b/b9/Solid_red.png\" alt=\"\" width=\"10\" height=\"10\" />&nbsp; Bus dalam masa maintenance </span></strong></p>",
     "cuaca": "Cerah",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 4
   },
   {
     "uniqid": "5d53711de0d43",
@@ -1413,7 +1530,8 @@
     "priority": 16,
     "timetable": "<style>#tableDataBrowse td { padding:0; margin:0; text-align: center;font-weight:600;}</style><p style=\"text-align: center;\"><strong>Timetable Keberangkatan</strong></p>\r\n<table id=\"tableDataBrowse\" class=\"table table-bordered\">\r\n<tbody>\r\n<tr>\r\n<td style=\"background-color: #ffffff;\">05:41</td>\r\n<td style=\"background-color: # ffffff;\">06:19</td>\r\n<td style=\"background-color: #ffffff;\">06:56</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff;\">07:34</td>\r\n<td style=\"background-color: # ffffff;\">08:12</td>\r\n<td style=\"background-color: #ffffff;\">08:49</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff;\">09:27</td>\r\n<td style=\"background-color: # ffffff;\">10:05</td>\r\n<td style=\"background-color: #ffffff;\">10:42</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff;\">11:20</td>\r\n<td style=\"background-color: # ffffff;\">11:58</td>\r\n<td style=\"background-color: #ffffff;\">12:35</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff;\">13:11</td>\r\n<td style=\"background-color: # ffffff;\">13:49</td>\r\n<td style=\"background-color: #ffffff;\">14:26</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff;\">15:04</td>\r\n<td style=\"background-color: # ffffff;\">15:42</td>\r\n<td style=\"background-color: #ffffff;\">16:19</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff;\">16:57</td>\r\n<td style=\"background-color: # ffffff;\">17:35</td>\r\n<td style=\"background-color: # ffffff;\">18:12</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff;\">18:50</td>\r\n<td style=\"background-color: # ffffff;\">19:28</td>\r\n<td style=\"background-color: # ffffff;\">20:05</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff;\">* 20:43</td>\r\n<td style=\"background-color: # ffffff;\">* 21:21</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<p style=\"text-align: center;\"><strong>* Berakhir di halte Gunung Anyar Timur 1&nbsp;<br /> <span style=\"background: '#ff0000';\">&nbsp;&nbsp;<img src=\"https://upload.wikimedia.org/wikipedia/commons/b/b9/Solid_red.png\" alt=\"\" width=\"10\" height=\"10\" />&nbsp; Bus dalam masa maintenance </span></strong></p>",
     "cuaca": "Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 4
   },
   {
     "uniqid": "5e5b4d38ae9ad",
@@ -1425,7 +1543,8 @@
     "priority": 17,
     "timetable": "",
     "cuaca": "Cerah",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 4
   },
   {
     "uniqid": "5d537277cab8e",
@@ -1437,7 +1556,8 @@
     "priority": 18,
     "timetable": "",
     "cuaca": "Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 4
   },
   {
     "uniqid": "5d5372a34614d",
@@ -1449,7 +1569,8 @@
     "priority": 19,
     "timetable": "<style>#tableDataBrowse td { padding:0; margin:0; text-align: center;font-weight:600;}</style><p style=\"text-align: center;\"><strong>Timetable Keberangkatan</strong></p>\r\n<table id=\"tableDataBrowse\" class=\"table table-bordered\">\r\n<tbody>\r\n<tr>\r\n<td>05:46</td>\r\n<td style=\"background-color: # ffffff;\">06:23</td>\r\n<td>07:01</td>\r\n</tr>\r\n<tr>\r\n<td>07:39</td>\r\n<td style=\"background-color: # ffffff;\">08:16</td>\r\n<td style=\"background-color: #ffffff;\">08:54</td>\r\n</tr>\r\n<tr>\r\n<td>09:32</td>\r\n<td style=\"background-color: # ffffff;\">10:09</td>\r\n<td style=\"background-color: #ffffff;\">10:47</td>\r\n</tr>\r\n<tr>\r\n<td>11:25</td>\r\n<td style=\"background-color: # ffffff;\">12:02</td>\r\n<td style=\"background-color: #ffffff;\">12:40</td>\r\n</tr>\r\n<tr>\r\n<td>13:16</td>\r\n<td style=\"background-color: # ffffff;\">13:53</td>\r\n<td style=\"background-color: #ffffff;\">14:31</td>\r\n</tr>\r\n<tr>\r\n<td>15:09</td>\r\n<td style=\"background-color: # ffffff;\">15:46</td>\r\n<td style=\"background-color: #ffffff;\">16:24</td>\r\n</tr>\r\n<tr>\r\n<td>17:02</td>\r\n<td style=\"background-color: # ffffff;\">17:39</td>\r\n<td style=\"background-color: # ffffff;\">18:17</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff;\">18:55</td>\r\n<td style=\"background-color: # ffffff;\">19:32</td>\r\n<td style=\"background-color: # ffffff;\">20:10</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff;\">* 20:48</td>\r\n<td style=\"background-color: # ffffff;\">* 21:25</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<p style=\"text-align: center;\"><strong>* Berakhir di halte Gunung Anyar Timur 1&nbsp;<br /> <span style=\"background: '#ff0000';\">&nbsp;&nbsp;<img src=\"https://upload.wikimedia.org/wikipedia/commons/b/b9/Solid_red.png\" alt=\"\" width=\"10\" height=\"10\" />&nbsp; Bus dalam masa maintenance </span></strong></p>",
     "cuaca": "Hujan Ringan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 4
   },
   {
     "uniqid": "5bac99e600e74",
@@ -1461,7 +1582,8 @@
     "priority": 20,
     "timetable": "",
     "cuaca": "Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 4
   },
   {
     "uniqid": "5bac9a1b342cc",
@@ -1473,7 +1595,8 @@
     "priority": 21,
     "timetable": "<style>#tableDataBrowse td { padding:0; margin:0; text-align: center;font-weight:600;}</style><p><img src=\"http://36.66.208.109/gobis/public/images/img/MERR%203%20UNIT/ITS%201-2.jpg\" alt=\"\" width=\"100%\" height=\"100%\" /></p>",
     "cuaca": "Hujan Ringan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 4
   },
   {
     "uniqid": "5d5372f07d8ee",
@@ -1485,7 +1608,8 @@
     "priority": 22,
     "timetable": "",
     "cuaca": "Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 4
   },
   {
     "uniqid": "62f509a97d17b",
@@ -1497,7 +1621,8 @@
     "priority": 22,
     "timetable": "",
     "cuaca": "Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 4
   },
   {
     "uniqid": "5d537319a95ee",
@@ -1509,7 +1634,8 @@
     "priority": 23,
     "timetable": "",
     "cuaca": "Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 4
   },
   {
     "uniqid": "5d5373461bf6e",
@@ -1521,7 +1647,8 @@
     "priority": 24,
     "timetable": "<style>#tableDataBrowse td { padding:0; margin:0; text-align: center;font-weight:600;}</style><p style=\"text-align: center;\"><strong>Timetable Keberangkatan</strong></p>\r\n<table id=\"tableDataBrowse\" class=\"table table-bordered\" style=\"width: 936px;\">\r\n<tbody>\r\n<tr>\r\n<td style=\"background-color: #ffffff; width: 332px;\">05:58</td>\r\n<td style=\"width: 314.734px;\">06:36</td>\r\n<td style=\"background-color: #ffffff; width: 284.266px;\">07:14</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff; width: 332px;\">07:51</td>\r\n<td style=\"width: 314.734px;\">08:29</td>\r\n<td style=\"background-color: #ffffff;\">09:07</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff; width: 332px;\">09:44</td>\r\n<td style=\"width: 314.734px;\">10:22</td>\r\n<td style=\"background-color: #ffffff;\">11:00</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff; width: 332px;\">11:37</td>\r\n<td style=\"width: 314.734px;\">12:15</td>\r\n<td style=\"background-color: #ffffff;\">12:53</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff; width: 332px;\">13:28</td>\r\n<td style=\"width: 314.734px;\">14:06</td>\r\n<td style=\"background-color: #ffffff;\">14:44</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff; width: 332px;\">15:21</td>\r\n<td style=\"width: 314.734px;\">15:59</td>\r\n<td style=\"background-color: #ffffff;\">16:37</td>\r\n</tr>\r\n<tr>\r\n<td style=\"width: 332px;\">17:14</td>\r\n<td style=\"width: 314.734px;\">17:52</td>\r\n<td style=\"background-color: # ffffff;\">18:30</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff; width: 332px;\">19:07</td>\r\n<td style=\"width: 314.734px;\">19:45</td>\r\n<td style=\"background-color: # ffffff;\">20:23</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff; width: 332px;\">* 21:00</td>\r\n<td style=\"width: 314.734px;\">* 21:38</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<p style=\"text-align: center;\"><strong>* Berakhir di halte Gunung Anyar Timur 1&nbsp;<br /> <span style=\"background: '#ff0000';\">&nbsp;&nbsp;<img src=\"https://upload.wikimedia.org/wikipedia/commons/b/b9/Solid_red.png\" alt=\"\" width=\"10\" height=\"10\" />&nbsp; Bus dalam masa maintenance </span></strong></p>",
     "cuaca": "Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 4
   },
   {
     "uniqid": "5d53736ce255d",
@@ -1533,7 +1660,8 @@
     "priority": 25,
     "timetable": "",
     "cuaca": "Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 4
   },
   {
     "uniqid": "5d537395aa202",
@@ -1545,7 +1673,8 @@
     "priority": 26,
     "timetable": "",
     "cuaca": "Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 4
   },
   {
     "uniqid": "5d5376010219b",
@@ -1557,7 +1686,8 @@
     "priority": 27,
     "timetable": "<style>#tableDataBrowse td { padding:0; margin:0; text-align: center;font-weight:600;}</style><p style=\"text-align: center;\"><strong>Timetable Keberangkatan</strong></p>\r\n<p>&nbsp;</p>\r\n<table id=\"tableDataBrowse\" class=\"table table-bordered\" style=\"width: 930px;\">\r\n<tbody>\r\n<tr>\r\n<td style=\"width: 290px;\">06:06</td>\r\n<td style=\"width: 295.836px;\">06:44</td>\r\n<td style=\"width: 342.164px;\">07:22</td>\r\n</tr>\r\n<tr>\r\n<td style=\"width: 290px;\">07:59</td>\r\n<td style=\"width: 295.836px;\">08:37</td>\r\n<td style=\"background-color: #ffffff;\">09:15</td>\r\n</tr>\r\n<tr>\r\n<td style=\"width: 290px;\">09:52</td>\r\n<td style=\"width: 295.836px;\">10:30</td>\r\n<td style=\"background-color: #ffffff;\">11:08</td>\r\n</tr>\r\n<tr>\r\n<td style=\"width: 290px;\">11:45</td>\r\n<td style=\"width: 295.836px;\">12:23</td>\r\n<td style=\"background-color: #ffffff;\">13:01</td>\r\n</tr>\r\n<tr>\r\n<td style=\"width: 290px;\">13:36</td>\r\n<td style=\"width: 295.836px;\">14:14</td>\r\n<td style=\"background-color: #ffffff;\">14:52</td>\r\n</tr>\r\n<tr>\r\n<td style=\"width: 290px;\">15:29</td>\r\n<td style=\"width: 295.836px;\">16:07</td>\r\n<td style=\"background-color: #ffffff;\">16:45</td>\r\n</tr>\r\n<tr>\r\n<td style=\"width: 290px;\">17:22</td>\r\n<td style=\"width: 295.836px;\">18:00</td>\r\n<td style=\"background-color: # ffffff;\">18:38</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff; width: 290px;\">19:15</td>\r\n<td style=\"width: 295.836px;\">19:53</td>\r\n<td style=\"background-color: # ffffff;\">20:31</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff; width: 290px;\">*21:08</td>\r\n<td style=\"width: 295.836px;\">*21:46</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<p style=\"text-align: center;\"><strong>* Berakhir di halte Gunung Anyar Timur 1&nbsp;<br /> <span style=\"background: '#ff0000';\">&nbsp;&nbsp;<img src=\"https://upload.wikimedia.org/wikipedia/commons/b/b9/Solid_red.png\" alt=\"\" width=\"10\" height=\"10\" />&nbsp; Bus dalam masa maintenance </span></strong></p>",
     "cuaca": "Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 4
   },
   {
     "uniqid": "5d5377a05ed7d",
@@ -1569,7 +1699,8 @@
     "priority": 28,
     "timetable": "",
     "cuaca": "Cerah",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 4
   },
   {
     "uniqid": "5d5377d3effbf",
@@ -1581,7 +1712,8 @@
     "priority": 29,
     "timetable": "",
     "cuaca": "Cerah",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 4
   },
   {
     "uniqid": "5d5377fb996ae",
@@ -1593,7 +1725,8 @@
     "priority": 30,
     "timetable": "",
     "cuaca": "Cerah",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 4
   },
   {
     "uniqid": "5d537821ed8be",
@@ -1605,7 +1738,8 @@
     "priority": 31,
     "timetable": "<style>#tableDataBrowse td { padding:0; margin:0; text-align: center;font-weight:600;}</style><p style=\"text-align: center;\"><strong>Timetable Keberangkatan</strong></p>\r\n<table id=\"tableDataBrowse\" class=\"table table-bordered\">\r\n<tbody>\r\n<tr>\r\n<td>06:15</td>\r\n<td style=\"background-color: # ffffff;\">06:52</td>\r\n<td>07:30</td>\r\n</tr>\r\n<tr>\r\n<td>08:08</td>\r\n<td style=\"background-color: # ffffff;\">08:45</td>\r\n<td style=\"background-color: #ffffff;\">09:23</td>\r\n</tr>\r\n<tr>\r\n<td>10:01</td>\r\n<td style=\"background-color: # ffffff;\">10:38</td>\r\n<td style=\"background-color: #ffffff;\">11:16</td>\r\n</tr>\r\n<tr>\r\n<td>11:54</td>\r\n<td style=\"background-color: # ffffff;\">12:31</td>\r\n<td style=\"background-color: #ffffff;\">13:09</td>\r\n</tr>\r\n<tr>\r\n<td>13:45</td>\r\n<td style=\"background-color: # ffffff;\">14:22</td>\r\n<td style=\"background-color: #ffffff;\">15:00</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff;\">15:38</td>\r\n<td style=\"background-color: # ffffff;\">16:15</td>\r\n<td style=\"background-color: #ffffff;\">16:53</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: # ffffff;\">17:31</td>\r\n<td style=\"background-color: # ffffff;\">18:08</td>\r\n<td style=\"background-color: # ffffff;\">18:46</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff;\">19:24</td>\r\n<td style=\"background-color: # ffffff;\">20:01</td>\r\n<td style=\"background-color: # ffffff;\">20:39</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff;\">* 21:17</td>\r\n<td style=\"background-color: # ffffff;\">* 21:54</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<p style=\"text-align: center;\"><strong>* Berakhir di halte Gunung Anyar Timur 1&nbsp;<br /> <span style=\"background: '#ff0000';\">&nbsp;&nbsp;<img src=\"https://upload.wikimedia.org/wikipedia/commons/b/b9/Solid_red.png\" alt=\"\" width=\"10\" height=\"10\" />&nbsp; Bus dalam masa maintenance </span></strong></p>",
     "cuaca": "Cerah",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 4
   },
   {
     "uniqid": "5d537846190f4",
@@ -1617,7 +1751,8 @@
     "priority": 32,
     "timetable": "",
     "cuaca": "Cerah",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 4
   },
   {
     "uniqid": "5d537865ca6a9",
@@ -1629,7 +1764,8 @@
     "priority": 33,
     "timetable": "<style>#tableDataBrowse td { padding:0; margin:0; text-align: center;font-weight:600;}</style><p style=\"text-align: center;\"><strong>Timetable Keberangkatan</strong></p>\r\n<table id=\"tableDataBrowse\" class=\"table table-bordered\">\r\n<tbody>\r\n<tr>\r\n<td>&nbsp;</td>\r\n<td>&nbsp;</td>\r\n<td style=\"background-color: #ffffff;\">05:30</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff;\">06:19</td>\r\n<td style=\"background-color: # ffffff;\">06:57</td>\r\n<td style=\"background-color: #ffffff;\">07:35</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff;\">08:12</td>\r\n<td style=\"background-color: # ffffff;\">08:50</td>\r\n<td style=\"background-color: #ffffff;\">09:28</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff;\">10:05</td>\r\n<td style=\"background-color: # ffffff;\">10:43</td>\r\n<td style=\"background-color: #ffffff;\">11:21</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff;\">11:58</td>\r\n<td style=\"background-color: # ffffff;\">12:36</td>\r\n<td style=\"background-color: #ffffff;\">13:14</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff;\">13:49</td>\r\n<td style=\"background-color: # ffffff;\">14:27</td>\r\n<td style=\"background-color: #ffffff;\">15:05</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff;\">15:42</td>\r\n<td style=\"background-color: # ffffff;\">16:20</td>\r\n<td style=\"background-color: #ffffff;\">16:58</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: # ffffff;\">17:35</td>\r\n<td style=\"background-color: # ffffff;\">18:13</td>\r\n<td style=\"background-color: # ffffff;\">18:51</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff;\">19:28</td>\r\n<td style=\"background-color: # ffffff;\">20:06</td>\r\n<td style=\"background-color: # ffffff;\">20:44</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<p style=\"text-align: center;\"><span style=\"background: '#ff0000';\">&nbsp;&nbsp;<img src=\"https://upload.wikimedia.org/wikipedia/commons/b/b9/Solid_red.png\" alt=\"\" width=\"10\" height=\"10\" />&nbsp; Bus dalam masa maintenance </span></p>",
     "cuaca": "Cerah",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 4
   },
   {
     "uniqid": "5d537886d6aec",
@@ -1641,7 +1777,8 @@
     "priority": 34,
     "timetable": "",
     "cuaca": "Cerah",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 4
   },
   {
     "uniqid": "5d5378a89e270",
@@ -1653,7 +1790,8 @@
     "priority": 35,
     "timetable": "",
     "cuaca": "Cerah",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 4
   },
   {
     "uniqid": "5d5378c94675d",
@@ -1665,7 +1803,8 @@
     "priority": 36,
     "timetable": "",
     "cuaca": "Cerah",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 4
   },
   {
     "uniqid": "5d537998b5709",
@@ -1677,7 +1816,8 @@
     "priority": 38,
     "timetable": "<style>#tableDataBrowse td { padding:0; margin:0; text-align: center;font-weight:600;}</style><p style=\"text-align: center;\"><strong>Timetable Keberangkatan</strong></p>\r\n<table id=\"tableDataBrowse\" class=\"table table-bordered\">\r\n<tbody>\r\n<tr>\r\n<td>&nbsp;</td>\r\n<td>&nbsp;</td>\r\n<td style=\"background-color: #ffffff;\">05:42</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff;\">06:23</td>\r\n<td style=\"background-color: # ffffff;\">06:10</td>\r\n<td style=\"background-color: #ffffff;\">07:48</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff;\">08:25</td>\r\n<td style=\"background-color: # ffffff;\">09:03</td>\r\n<td style=\"background-color: #ffffff;\">09:41</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff;\">10:18</td>\r\n<td style=\"background-color: # ffffff;\">10:56</td>\r\n<td style=\"background-color: #ffffff;\">11:34</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff;\">12:11</td>\r\n<td style=\"background-color: # ffffff;\">12:49</td>\r\n<td style=\"background-color: #ffffff;\">13:27</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff;\">14:02</td>\r\n<td style=\"background-color: # ffffff;\">14:40</td>\r\n<td style=\"background-color: #ffffff;\">15:18</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff;\">15:55</td>\r\n<td style=\"background-color: # ffffff;\">16:33</td>\r\n<td style=\"background-color: #ffffff;\">17:11</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: # ffffff;\">17:48</td>\r\n<td style=\"background-color: # ffffff;\">18:26</td>\r\n<td style=\"background-color: # ffffff;\">19:04</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff;\">19:41</td>\r\n<td style=\"background-color: # ffffff;\">20:19</td>\r\n<td style=\"background-color: # ffffff;\">20:57</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<p style=\"text-align: center;\"><span style=\"background: '#ff0000';\">&nbsp;&nbsp;<img src=\"https://upload.wikimedia.org/wikipedia/commons/b/b9/Solid_red.png\" alt=\"\" width=\"10\" height=\"10\" />&nbsp; Bus dalam masa maintenance </span></p>",
     "cuaca": "Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 4
   },
   {
     "uniqid": "5d5379b20f0ac",
@@ -1689,7 +1829,8 @@
     "priority": 39,
     "timetable": "",
     "cuaca": "Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 4
   },
   {
     "uniqid": "5d5379cf815b3",
@@ -1701,7 +1842,8 @@
     "priority": 40,
     "timetable": "",
     "cuaca": "Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 4
   },
   {
     "uniqid": "5d5369a39c9cb",
@@ -1713,7 +1855,8 @@
     "priority": 1,
     "timetable": "",
     "cuaca": "Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 5
   },
   {
     "uniqid": "5d5369d7ba9b5",
@@ -1725,7 +1868,8 @@
     "priority": 2,
     "timetable": "<style>#tableDataBrowse td { padding:0; margin:0; text-align: center;font-weight:600;}</style><p style=\"text-align: center;\"><strong>Timetable Keberangkatan</strong></p>\r\n<table id=\"tableDataBrowse\" class=\"table table-bordered\">\r\n<tbody>\r\n<tr>\r\n<td>&nbsp;</td>\r\n<td>&nbsp;</td>\r\n<td style=\"background-color: #ffffff;\">05:49</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff;\">06:38</td>\r\n<td style=\"background-color: # ffffff;\">07:16</td>\r\n<td style=\"background-color: #ffffff;\">07:54</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff;\">08:31</td>\r\n<td style=\"background-color: # ffffff;\">09:09</td>\r\n<td style=\"background-color: #ffffff;\">09:47</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff;\">10:24</td>\r\n<td style=\"background-color: # ffffff;\">11:02</td>\r\n<td style=\"background-color: #ffffff;\">11:40</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff;\">12:17</td>\r\n<td style=\"background-color: # ffffff;\">12:55</td>\r\n<td style=\"background-color: #ffffff;\">13:33</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff;\">14:08</td>\r\n<td style=\"background-color: # ffffff;\">14:46</td>\r\n<td style=\"background-color: #ffffff;\">15:24</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff;\">16:01</td>\r\n<td style=\"background-color: # ffffff;\">16:39</td>\r\n<td style=\"background-color: #ffffff;\">17:17</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: # ffffff;\">17:54</td>\r\n<td style=\"background-color: # ffffff;\">18:32</td>\r\n<td style=\"background-color: # ffffff;\">19:10</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff;\">19:47</td>\r\n<td style=\"background-color: # ffffff;\">20:25</td>\r\n<td style=\"background-color: # ffffff;\">21:03</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<p style=\"text-align: center;\"><span style=\"background: '#ff0000';\">&nbsp;&nbsp;<img src=\"https://upload.wikimedia.org/wikipedia/commons/b/b9/Solid_red.png\" alt=\"\" width=\"10\" height=\"10\" />&nbsp; Bus dalam masa maintenance </span></p>",
     "cuaca": "Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 5
   },
   {
     "uniqid": "5d536ec022082",
@@ -1737,7 +1881,8 @@
     "priority": 3,
     "timetable": "",
     "cuaca": "Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 5
   },
   {
     "uniqid": "5d536f48f3dcb",
@@ -1749,7 +1894,8 @@
     "priority": 6,
     "timetable": "",
     "cuaca": "Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 5
   },
   {
     "uniqid": "5d536f7439112",
@@ -1761,7 +1907,8 @@
     "priority": 7,
     "timetable": "<style>#tableDataBrowse td { padding:0; margin:0; text-align: center;font-weight:600;}</style><p style=\"text-align: center;\"><strong>Timetable Keberangkatan</strong></p>\r\n<table id=\"tableDataBrowse\" class=\"table table-bordered\">\r\n<tbody>\r\n<tr>\r\n<td>&nbsp;</td>\r\n<td>&nbsp;</td>\r\n<td style=\"background-color: #ffffff;\">06:00</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff;\">06:52</td>\r\n<td style=\"background-color: # ffffff;\">07:30</td>\r\n<td style=\"background-color: #ffffff;\">08:07</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff;\">08:45</td>\r\n<td style=\"background-color: # ffffff;\">09:23</td>\r\n<td style=\"background-color: #ffffff;\">10:00</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff;\">10:38</td>\r\n<td style=\"background-color: # ffffff;\">11:16</td>\r\n<td style=\"background-color: #ffffff;\">11:53</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff;\">12:31</td>\r\n<td style=\"background-color: # ffffff;\">13:09</td>\r\n<td style=\"background-color: #ffffff;\">13:46</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff;\">14:22</td>\r\n<td style=\"background-color: # ffffff;\">15:00</td>\r\n<td style=\"background-color: #ffffff;\">15:37</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff;\">16:15</td>\r\n<td style=\"background-color: # ffffff;\">16:53</td>\r\n<td style=\"background-color: #ffffff;\">17:30</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: # ffffff;\">18:08</td>\r\n<td style=\"background-color: # ffffff;\">18:46</td>\r\n<td style=\"background-color: # ffffff;\">19:23</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff;\">20:01</td>\r\n<td style=\"background-color: # ffffff;\">20:39</td>\r\n<td style=\"background-color: # ffffff;\">21:16</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<p style=\"text-align: center;\"><span style=\"background: '#ff0000';\">&nbsp;&nbsp;<img src=\"https://upload.wikimedia.org/wikipedia/commons/b/b9/Solid_red.png\" alt=\"\" width=\"10\" height=\"10\" />&nbsp; Bus dalam masa maintenance </span></p>",
     "cuaca": "Hujan Ringan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 5
   },
   {
     "uniqid": "5d536f9c4b1cd",
@@ -1773,7 +1920,8 @@
     "priority": 8,
     "timetable": null,
     "cuaca": "Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 5
   },
   {
     "uniqid": "5d536fe7e56d0",
@@ -1785,7 +1933,8 @@
     "priority": 9,
     "timetable": "<style>#tableDataBrowse td { padding:0; margin:0; text-align: center;font-weight:600;}</style><p style=\"text-align: center;\"><strong>Timetable Keberangkatan</strong></p>\r\n<table id=\"tableDataBrowse\" class=\"table table-bordered\">\r\n<tbody>\r\n<tr>\r\n<td>&nbsp;</td>\r\n<td>&nbsp;</td>\r\n<td style=\"background-color: #ffffff;\">06:06</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff;\">06:57</td>\r\n<td style=\"background-color: # ffffff;\">07:35</td>\r\n<td style=\"background-color: #ffffff;\">08:13</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff;\">08:50</td>\r\n<td style=\"background-color: # ffffff;\">09:28</td>\r\n<td style=\"background-color: #ffffff;\">10:06</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff;\">10:43</td>\r\n<td style=\"background-color: # ffffff;\">11:21</td>\r\n<td style=\"background-color: #ffffff;\">11:59</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff;\">12:36</td>\r\n<td style=\"background-color: # ffffff;\">13:14</td>\r\n<td style=\"background-color: #ffffff;\">13:52</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff;\">14:27</td>\r\n<td style=\"background-color: # ffffff;\">15:05</td>\r\n<td style=\"background-color: #ffffff;\">15:43</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff;\">16:20</td>\r\n<td style=\"background-color: # ffffff;\">16:58</td>\r\n<td style=\"background-color: #ffffff;\">17:36</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: # ffffff;\">18:13</td>\r\n<td style=\"background-color: # ffffff;\">18:51</td>\r\n<td style=\"background-color: # ffffff;\">19:29</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff;\">20:06</td>\r\n<td style=\"background-color: # ffffff;\">20:44</td>\r\n<td style=\"background-color: # ffffff;\">21:22</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<p style=\"text-align: center;\"><span style=\"background: '#ff0000';\">&nbsp;&nbsp;<img src=\"https://upload.wikimedia.org/wikipedia/commons/b/b9/Solid_red.png\" alt=\"\" width=\"10\" height=\"10\" />&nbsp; Bus dalam masa maintenance </span></p>",
     "cuaca": "Cerah Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 5
   },
   {
     "uniqid": "5d53700cbec35",
@@ -1797,7 +1946,8 @@
     "priority": 10,
     "timetable": null,
     "cuaca": "Cerah",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 5
   },
   {
     "uniqid": "5d53709fbb220",
@@ -1809,7 +1959,8 @@
     "priority": 11,
     "timetable": null,
     "cuaca": "Cerah",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 5
   },
   {
     "uniqid": "5e5b4cd71cf9a",
@@ -1821,7 +1972,8 @@
     "priority": 12,
     "timetable": null,
     "cuaca": "Cerah",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 5
   },
   {
     "uniqid": "5d5370d198861",
@@ -1833,7 +1985,8 @@
     "priority": 13,
     "timetable": "",
     "cuaca": "Cerah",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 5
   },
   {
     "uniqid": "5d5370f9ddc66",
@@ -1845,7 +1998,8 @@
     "priority": 14,
     "timetable": "",
     "cuaca": "Cerah",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 5
   },
   {
     "uniqid": "5e5b4d05c17fe",
@@ -1857,7 +2011,8 @@
     "priority": 15,
     "timetable": "<style>#tableDataBrowse td { padding:0; margin:0; text-align: center;font-weight:600;}</style><p style=\"text-align: center;\"><strong>Timetable Keberangkatan</strong></p>\r\n<table id=\"tableDataBrowse\" class=\"table table-bordered\">\r\n<tbody>\r\n<tr>\r\n<td style=\"background-color: #ffffff;\">05:30</td>\r\n<td style=\"background-color: # ffffff;\">06:07</td>\r\n<td style=\"background-color: #ffffff;\">06:45</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff;\">07:23</td>\r\n<td style=\"background-color: # ffffff;\">08:00</td>\r\n<td style=\"background-color: #ffffff;\">08:38</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: # ffffff;\">09:16</td>\r\n<td style=\"background-color: # ffffff;\">09:53</td>\r\n<td style=\"background-color: #ffffff;\">10:31</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: # ffffff;\">11:09</td>\r\n<td style=\"background-color: # ffffff;\">11:46</td>\r\n<td style=\"background-color: #ffffff;\">12:24</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff;\">13:00</td>\r\n<td style=\"background-color: # ffffff;\">13:37</td>\r\n<td style=\"background-color: #ffffff;\">14:15</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff;\">14:53</td>\r\n<td style=\"background-color: # ffffff;\">15:30</td>\r\n<td style=\"background-color: #ffffff;\">16:08</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff;\">16:46</td>\r\n<td style=\"background-color: # ffffff;\">17:23</td>\r\n<td style=\"background-color: # ffffff;\">18:01</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff;\">18:39</td>\r\n<td style=\"background-color: # ffffff;\">19:16</td>\r\n<td style=\"background-color: # ffffff;\">19:54</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff;\">* 20:32</td>\r\n<td style=\"background-color: # ffffff;\">* 21:09</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<p style=\"text-align: center;\"><strong>* Berakhir di halte Gunung Anyar Timur 1&nbsp;<br /> <span style=\"background: '#ff0000';\">&nbsp;&nbsp;<img src=\"https://upload.wikimedia.org/wikipedia/commons/b/b9/Solid_red.png\" alt=\"\" width=\"10\" height=\"10\" />&nbsp; Bus dalam masa maintenance </span></strong></p>",
     "cuaca": "Cerah",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 5
   },
   {
     "uniqid": "5d53711de0d43",
@@ -1869,7 +2024,8 @@
     "priority": 16,
     "timetable": "<style>#tableDataBrowse td { padding:0; margin:0; text-align: center;font-weight:600;}</style><p style=\"text-align: center;\"><strong>Timetable Keberangkatan</strong></p>\r\n<table id=\"tableDataBrowse\" class=\"table table-bordered\">\r\n<tbody>\r\n<tr>\r\n<td style=\"background-color: #ffffff;\">05:41</td>\r\n<td style=\"background-color: # ffffff;\">06:19</td>\r\n<td style=\"background-color: #ffffff;\">06:56</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff;\">07:34</td>\r\n<td style=\"background-color: # ffffff;\">08:12</td>\r\n<td style=\"background-color: #ffffff;\">08:49</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff;\">09:27</td>\r\n<td style=\"background-color: # ffffff;\">10:05</td>\r\n<td style=\"background-color: #ffffff;\">10:42</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff;\">11:20</td>\r\n<td style=\"background-color: # ffffff;\">11:58</td>\r\n<td style=\"background-color: #ffffff;\">12:35</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff;\">13:11</td>\r\n<td style=\"background-color: # ffffff;\">13:49</td>\r\n<td style=\"background-color: #ffffff;\">14:26</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff;\">15:04</td>\r\n<td style=\"background-color: # ffffff;\">15:42</td>\r\n<td style=\"background-color: #ffffff;\">16:19</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff;\">16:57</td>\r\n<td style=\"background-color: # ffffff;\">17:35</td>\r\n<td style=\"background-color: # ffffff;\">18:12</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff;\">18:50</td>\r\n<td style=\"background-color: # ffffff;\">19:28</td>\r\n<td style=\"background-color: # ffffff;\">20:05</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff;\">* 20:43</td>\r\n<td style=\"background-color: # ffffff;\">* 21:21</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<p style=\"text-align: center;\"><strong>* Berakhir di halte Gunung Anyar Timur 1&nbsp;<br /> <span style=\"background: '#ff0000';\">&nbsp;&nbsp;<img src=\"https://upload.wikimedia.org/wikipedia/commons/b/b9/Solid_red.png\" alt=\"\" width=\"10\" height=\"10\" />&nbsp; Bus dalam masa maintenance </span></strong></p>",
     "cuaca": "Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 5
   },
   {
     "uniqid": "5e5b4d38ae9ad",
@@ -1881,7 +2037,8 @@
     "priority": 17,
     "timetable": "",
     "cuaca": "Cerah",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 5
   },
   {
     "uniqid": "5d537277cab8e",
@@ -1893,7 +2050,8 @@
     "priority": 18,
     "timetable": "",
     "cuaca": "Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 5
   },
   {
     "uniqid": "5d5372a34614d",
@@ -1905,7 +2063,8 @@
     "priority": 19,
     "timetable": "<style>#tableDataBrowse td { padding:0; margin:0; text-align: center;font-weight:600;}</style><p style=\"text-align: center;\"><strong>Timetable Keberangkatan</strong></p>\r\n<table id=\"tableDataBrowse\" class=\"table table-bordered\">\r\n<tbody>\r\n<tr>\r\n<td>05:46</td>\r\n<td style=\"background-color: # ffffff;\">06:23</td>\r\n<td>07:01</td>\r\n</tr>\r\n<tr>\r\n<td>07:39</td>\r\n<td style=\"background-color: # ffffff;\">08:16</td>\r\n<td style=\"background-color: #ffffff;\">08:54</td>\r\n</tr>\r\n<tr>\r\n<td>09:32</td>\r\n<td style=\"background-color: # ffffff;\">10:09</td>\r\n<td style=\"background-color: #ffffff;\">10:47</td>\r\n</tr>\r\n<tr>\r\n<td>11:25</td>\r\n<td style=\"background-color: # ffffff;\">12:02</td>\r\n<td style=\"background-color: #ffffff;\">12:40</td>\r\n</tr>\r\n<tr>\r\n<td>13:16</td>\r\n<td style=\"background-color: # ffffff;\">13:53</td>\r\n<td style=\"background-color: #ffffff;\">14:31</td>\r\n</tr>\r\n<tr>\r\n<td>15:09</td>\r\n<td style=\"background-color: # ffffff;\">15:46</td>\r\n<td style=\"background-color: #ffffff;\">16:24</td>\r\n</tr>\r\n<tr>\r\n<td>17:02</td>\r\n<td style=\"background-color: # ffffff;\">17:39</td>\r\n<td style=\"background-color: # ffffff;\">18:17</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff;\">18:55</td>\r\n<td style=\"background-color: # ffffff;\">19:32</td>\r\n<td style=\"background-color: # ffffff;\">20:10</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff;\">* 20:48</td>\r\n<td style=\"background-color: # ffffff;\">* 21:25</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<p style=\"text-align: center;\"><strong>* Berakhir di halte Gunung Anyar Timur 1&nbsp;<br /> <span style=\"background: '#ff0000';\">&nbsp;&nbsp;<img src=\"https://upload.wikimedia.org/wikipedia/commons/b/b9/Solid_red.png\" alt=\"\" width=\"10\" height=\"10\" />&nbsp; Bus dalam masa maintenance </span></strong></p>",
     "cuaca": "Hujan Ringan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 5
   },
   {
     "uniqid": "5bac99e600e74",
@@ -1917,7 +2076,8 @@
     "priority": 20,
     "timetable": "",
     "cuaca": "Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 5
   },
   {
     "uniqid": "5bac9a1b342cc",
@@ -1929,7 +2089,8 @@
     "priority": 21,
     "timetable": "<style>#tableDataBrowse td { padding:0; margin:0; text-align: center;font-weight:600;}</style><p><img src=\"http://36.66.208.109/gobis/public/images/img/MERR%203%20UNIT/ITS%201-2.jpg\" alt=\"\" width=\"100%\" height=\"100%\" /></p>",
     "cuaca": "Hujan Ringan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 5
   },
   {
     "uniqid": "5d5372f07d8ee",
@@ -1941,7 +2102,8 @@
     "priority": 22,
     "timetable": "",
     "cuaca": "Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 5
   },
   {
     "uniqid": "62f509a97d17b",
@@ -1953,7 +2115,8 @@
     "priority": 22,
     "timetable": "",
     "cuaca": "Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 5
   },
   {
     "uniqid": "5d537319a95ee",
@@ -1965,7 +2128,8 @@
     "priority": 23,
     "timetable": "",
     "cuaca": "Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 5
   },
   {
     "uniqid": "5d5373461bf6e",
@@ -1977,7 +2141,8 @@
     "priority": 24,
     "timetable": "<style>#tableDataBrowse td { padding:0; margin:0; text-align: center;font-weight:600;}</style><p style=\"text-align: center;\"><strong>Timetable Keberangkatan</strong></p>\r\n<table id=\"tableDataBrowse\" class=\"table table-bordered\" style=\"width: 936px;\">\r\n<tbody>\r\n<tr>\r\n<td style=\"background-color: #ffffff; width: 332px;\">05:58</td>\r\n<td style=\"width: 314.734px;\">06:36</td>\r\n<td style=\"background-color: #ffffff; width: 284.266px;\">07:14</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff; width: 332px;\">07:51</td>\r\n<td style=\"width: 314.734px;\">08:29</td>\r\n<td style=\"background-color: #ffffff;\">09:07</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff; width: 332px;\">09:44</td>\r\n<td style=\"width: 314.734px;\">10:22</td>\r\n<td style=\"background-color: #ffffff;\">11:00</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff; width: 332px;\">11:37</td>\r\n<td style=\"width: 314.734px;\">12:15</td>\r\n<td style=\"background-color: #ffffff;\">12:53</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff; width: 332px;\">13:28</td>\r\n<td style=\"width: 314.734px;\">14:06</td>\r\n<td style=\"background-color: #ffffff;\">14:44</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff; width: 332px;\">15:21</td>\r\n<td style=\"width: 314.734px;\">15:59</td>\r\n<td style=\"background-color: #ffffff;\">16:37</td>\r\n</tr>\r\n<tr>\r\n<td style=\"width: 332px;\">17:14</td>\r\n<td style=\"width: 314.734px;\">17:52</td>\r\n<td style=\"background-color: # ffffff;\">18:30</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff; width: 332px;\">19:07</td>\r\n<td style=\"width: 314.734px;\">19:45</td>\r\n<td style=\"background-color: # ffffff;\">20:23</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff; width: 332px;\">* 21:00</td>\r\n<td style=\"width: 314.734px;\">* 21:38</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<p style=\"text-align: center;\"><strong>* Berakhir di halte Gunung Anyar Timur 1&nbsp;<br /> <span style=\"background: '#ff0000';\">&nbsp;&nbsp;<img src=\"https://upload.wikimedia.org/wikipedia/commons/b/b9/Solid_red.png\" alt=\"\" width=\"10\" height=\"10\" />&nbsp; Bus dalam masa maintenance </span></strong></p>",
     "cuaca": "Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 5
   },
   {
     "uniqid": "5d53736ce255d",
@@ -1989,7 +2154,8 @@
     "priority": 25,
     "timetable": "",
     "cuaca": "Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 5
   },
   {
     "uniqid": "5d537395aa202",
@@ -2001,7 +2167,8 @@
     "priority": 26,
     "timetable": "",
     "cuaca": "Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 5
   },
   {
     "uniqid": "5d5376010219b",
@@ -2013,7 +2180,8 @@
     "priority": 27,
     "timetable": "<style>#tableDataBrowse td { padding:0; margin:0; text-align: center;font-weight:600;}</style><p style=\"text-align: center;\"><strong>Timetable Keberangkatan</strong></p>\r\n<p>&nbsp;</p>\r\n<table id=\"tableDataBrowse\" class=\"table table-bordered\" style=\"width: 930px;\">\r\n<tbody>\r\n<tr>\r\n<td style=\"width: 290px;\">06:06</td>\r\n<td style=\"width: 295.836px;\">06:44</td>\r\n<td style=\"width: 342.164px;\">07:22</td>\r\n</tr>\r\n<tr>\r\n<td style=\"width: 290px;\">07:59</td>\r\n<td style=\"width: 295.836px;\">08:37</td>\r\n<td style=\"background-color: #ffffff;\">09:15</td>\r\n</tr>\r\n<tr>\r\n<td style=\"width: 290px;\">09:52</td>\r\n<td style=\"width: 295.836px;\">10:30</td>\r\n<td style=\"background-color: #ffffff;\">11:08</td>\r\n</tr>\r\n<tr>\r\n<td style=\"width: 290px;\">11:45</td>\r\n<td style=\"width: 295.836px;\">12:23</td>\r\n<td style=\"background-color: #ffffff;\">13:01</td>\r\n</tr>\r\n<tr>\r\n<td style=\"width: 290px;\">13:36</td>\r\n<td style=\"width: 295.836px;\">14:14</td>\r\n<td style=\"background-color: #ffffff;\">14:52</td>\r\n</tr>\r\n<tr>\r\n<td style=\"width: 290px;\">15:29</td>\r\n<td style=\"width: 295.836px;\">16:07</td>\r\n<td style=\"background-color: #ffffff;\">16:45</td>\r\n</tr>\r\n<tr>\r\n<td style=\"width: 290px;\">17:22</td>\r\n<td style=\"width: 295.836px;\">18:00</td>\r\n<td style=\"background-color: # ffffff;\">18:38</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff; width: 290px;\">19:15</td>\r\n<td style=\"width: 295.836px;\">19:53</td>\r\n<td style=\"background-color: # ffffff;\">20:31</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff; width: 290px;\">*21:08</td>\r\n<td style=\"width: 295.836px;\">*21:46</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<p style=\"text-align: center;\"><strong>* Berakhir di halte Gunung Anyar Timur 1&nbsp;<br /> <span style=\"background: '#ff0000';\">&nbsp;&nbsp;<img src=\"https://upload.wikimedia.org/wikipedia/commons/b/b9/Solid_red.png\" alt=\"\" width=\"10\" height=\"10\" />&nbsp; Bus dalam masa maintenance </span></strong></p>",
     "cuaca": "Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 5
   },
   {
     "uniqid": "5d5377a05ed7d",
@@ -2025,7 +2193,8 @@
     "priority": 28,
     "timetable": "",
     "cuaca": "Cerah",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 5
   },
   {
     "uniqid": "5d5377d3effbf",
@@ -2037,7 +2206,8 @@
     "priority": 29,
     "timetable": "",
     "cuaca": "Cerah",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 5
   },
   {
     "uniqid": "5d5377fb996ae",
@@ -2049,7 +2219,8 @@
     "priority": 30,
     "timetable": "",
     "cuaca": "Cerah",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 5
   },
   {
     "uniqid": "5d537821ed8be",
@@ -2061,7 +2232,8 @@
     "priority": 31,
     "timetable": "<style>#tableDataBrowse td { padding:0; margin:0; text-align: center;font-weight:600;}</style><p style=\"text-align: center;\"><strong>Timetable Keberangkatan</strong></p>\r\n<table id=\"tableDataBrowse\" class=\"table table-bordered\">\r\n<tbody>\r\n<tr>\r\n<td>06:15</td>\r\n<td style=\"background-color: # ffffff;\">06:52</td>\r\n<td>07:30</td>\r\n</tr>\r\n<tr>\r\n<td>08:08</td>\r\n<td style=\"background-color: # ffffff;\">08:45</td>\r\n<td style=\"background-color: #ffffff;\">09:23</td>\r\n</tr>\r\n<tr>\r\n<td>10:01</td>\r\n<td style=\"background-color: # ffffff;\">10:38</td>\r\n<td style=\"background-color: #ffffff;\">11:16</td>\r\n</tr>\r\n<tr>\r\n<td>11:54</td>\r\n<td style=\"background-color: # ffffff;\">12:31</td>\r\n<td style=\"background-color: #ffffff;\">13:09</td>\r\n</tr>\r\n<tr>\r\n<td>13:45</td>\r\n<td style=\"background-color: # ffffff;\">14:22</td>\r\n<td style=\"background-color: #ffffff;\">15:00</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff;\">15:38</td>\r\n<td style=\"background-color: # ffffff;\">16:15</td>\r\n<td style=\"background-color: #ffffff;\">16:53</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: # ffffff;\">17:31</td>\r\n<td style=\"background-color: # ffffff;\">18:08</td>\r\n<td style=\"background-color: # ffffff;\">18:46</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff;\">19:24</td>\r\n<td style=\"background-color: # ffffff;\">20:01</td>\r\n<td style=\"background-color: # ffffff;\">20:39</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff;\">* 21:17</td>\r\n<td style=\"background-color: # ffffff;\">* 21:54</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<p style=\"text-align: center;\"><strong>* Berakhir di halte Gunung Anyar Timur 1&nbsp;<br /> <span style=\"background: '#ff0000';\">&nbsp;&nbsp;<img src=\"https://upload.wikimedia.org/wikipedia/commons/b/b9/Solid_red.png\" alt=\"\" width=\"10\" height=\"10\" />&nbsp; Bus dalam masa maintenance </span></strong></p>",
     "cuaca": "Cerah",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 5
   },
   {
     "uniqid": "5d537846190f4",
@@ -2073,7 +2245,8 @@
     "priority": 32,
     "timetable": "",
     "cuaca": "Cerah",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 5
   },
   {
     "uniqid": "5d537865ca6a9",
@@ -2085,7 +2258,8 @@
     "priority": 33,
     "timetable": "<style>#tableDataBrowse td { padding:0; margin:0; text-align: center;font-weight:600;}</style><p style=\"text-align: center;\"><strong>Timetable Keberangkatan</strong></p>\r\n<table id=\"tableDataBrowse\" class=\"table table-bordered\">\r\n<tbody>\r\n<tr>\r\n<td>&nbsp;</td>\r\n<td>&nbsp;</td>\r\n<td style=\"background-color: #ffffff;\">05:30</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff;\">06:19</td>\r\n<td style=\"background-color: # ffffff;\">06:57</td>\r\n<td style=\"background-color: #ffffff;\">07:35</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff;\">08:12</td>\r\n<td style=\"background-color: # ffffff;\">08:50</td>\r\n<td style=\"background-color: #ffffff;\">09:28</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff;\">10:05</td>\r\n<td style=\"background-color: # ffffff;\">10:43</td>\r\n<td style=\"background-color: #ffffff;\">11:21</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff;\">11:58</td>\r\n<td style=\"background-color: # ffffff;\">12:36</td>\r\n<td style=\"background-color: #ffffff;\">13:14</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff;\">13:49</td>\r\n<td style=\"background-color: # ffffff;\">14:27</td>\r\n<td style=\"background-color: #ffffff;\">15:05</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff;\">15:42</td>\r\n<td style=\"background-color: # ffffff;\">16:20</td>\r\n<td style=\"background-color: #ffffff;\">16:58</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: # ffffff;\">17:35</td>\r\n<td style=\"background-color: # ffffff;\">18:13</td>\r\n<td style=\"background-color: # ffffff;\">18:51</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff;\">19:28</td>\r\n<td style=\"background-color: # ffffff;\">20:06</td>\r\n<td style=\"background-color: # ffffff;\">20:44</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<p style=\"text-align: center;\"><span style=\"background: '#ff0000';\">&nbsp;&nbsp;<img src=\"https://upload.wikimedia.org/wikipedia/commons/b/b9/Solid_red.png\" alt=\"\" width=\"10\" height=\"10\" />&nbsp; Bus dalam masa maintenance </span></p>",
     "cuaca": "Cerah",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 5
   },
   {
     "uniqid": "5d537886d6aec",
@@ -2097,7 +2271,8 @@
     "priority": 34,
     "timetable": "",
     "cuaca": "Cerah",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 5
   },
   {
     "uniqid": "5d5378a89e270",
@@ -2109,7 +2284,8 @@
     "priority": 35,
     "timetable": "",
     "cuaca": "Cerah",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 5
   },
   {
     "uniqid": "5d5378c94675d",
@@ -2121,7 +2297,8 @@
     "priority": 36,
     "timetable": "",
     "cuaca": "Cerah",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 5
   },
   {
     "uniqid": "5d537998b5709",
@@ -2133,7 +2310,8 @@
     "priority": 38,
     "timetable": "<style>#tableDataBrowse td { padding:0; margin:0; text-align: center;font-weight:600;}</style><p style=\"text-align: center;\"><strong>Timetable Keberangkatan</strong></p>\r\n<table id=\"tableDataBrowse\" class=\"table table-bordered\">\r\n<tbody>\r\n<tr>\r\n<td>&nbsp;</td>\r\n<td>&nbsp;</td>\r\n<td style=\"background-color: #ffffff;\">05:42</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff;\">06:23</td>\r\n<td style=\"background-color: # ffffff;\">06:10</td>\r\n<td style=\"background-color: #ffffff;\">07:48</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff;\">08:25</td>\r\n<td style=\"background-color: # ffffff;\">09:03</td>\r\n<td style=\"background-color: #ffffff;\">09:41</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff;\">10:18</td>\r\n<td style=\"background-color: # ffffff;\">10:56</td>\r\n<td style=\"background-color: #ffffff;\">11:34</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff;\">12:11</td>\r\n<td style=\"background-color: # ffffff;\">12:49</td>\r\n<td style=\"background-color: #ffffff;\">13:27</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff;\">14:02</td>\r\n<td style=\"background-color: # ffffff;\">14:40</td>\r\n<td style=\"background-color: #ffffff;\">15:18</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff;\">15:55</td>\r\n<td style=\"background-color: # ffffff;\">16:33</td>\r\n<td style=\"background-color: #ffffff;\">17:11</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: # ffffff;\">17:48</td>\r\n<td style=\"background-color: # ffffff;\">18:26</td>\r\n<td style=\"background-color: # ffffff;\">19:04</td>\r\n</tr>\r\n<tr>\r\n<td style=\"background-color: #ffffff;\">19:41</td>\r\n<td style=\"background-color: # ffffff;\">20:19</td>\r\n<td style=\"background-color: # ffffff;\">20:57</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<p style=\"text-align: center;\"><span style=\"background: '#ff0000';\">&nbsp;&nbsp;<img src=\"https://upload.wikimedia.org/wikipedia/commons/b/b9/Solid_red.png\" alt=\"\" width=\"10\" height=\"10\" />&nbsp; Bus dalam masa maintenance </span></p>",
     "cuaca": "Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 5
   },
   {
     "uniqid": "5d5379b20f0ac",
@@ -2145,7 +2323,8 @@
     "priority": 39,
     "timetable": "",
     "cuaca": "Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 5
   },
   {
     "uniqid": "5d5379cf815b3",
@@ -2157,7 +2336,8 @@
     "priority": 40,
     "timetable": "",
     "cuaca": "Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 5
   },
   {
     "uniqid": "5e1533fca11aa",
@@ -2169,7 +2349,8 @@
     "priority": 1,
     "timetable": "<style>#tableDataBrowse td { padding:0; margin:0; text-align: center;font-weight:600;}</style><p>&nbsp;</p>\r\n<table id=\"tableDataBrowse\" class=\"table table-bordered\" style=\"width: 921.417px;\">\r\n<tbody>\r\n<tr>\r\n<td>05:30</td>\r\n<td>06:04</td>\r\n<td>06:38</td>\r\n</tr>\r\n<tr>\r\n<td>07:12</td>\r\n<td>08:46</td>\r\n<td>08:20</td>\r\n</tr>\r\n<tr>\r\n<td>08:54</td>\r\n<td>09:28</td>\r\n<td>10:02</td>\r\n</tr>\r\n<tr>\r\n<td>10:36</td>\r\n<td>11:10</td>\r\n<td>11:44</td>\r\n</tr>\r\n<tr>\r\n<td>12:18</td>\r\n<td>12:52</td>\r\n<td>13:26</td>\r\n</tr>\r\n<tr>\r\n<td>14:00</td>\r\n<td>14:34</td>\r\n<td>15:08</td>\r\n</tr>\r\n<tr>\r\n<td>15:42</td>\r\n<td>16:16</td>\r\n<td>16:50</td>\r\n</tr>\r\n<tr>\r\n<td>17:24</td>\r\n<td>17:58</td>\r\n<td>18:32</td>\r\n</tr>\r\n<tr>\r\n<td>19:06</td>\r\n<td>19:40</td>\r\n<td>20:14</td>\r\n</tr>\r\n<tr>\r\n<td>20:48</td>\r\n<td>&nbsp;</td>\r\n<td>&nbsp;</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<p style=\"text-align: center;\"><strong>&nbsp;&nbsp;<img src=\"https://upload.wikimedia.org/wikipedia/commons/b/b9/Solid_red.png\" alt=\"\" width=\"10\" height=\"10\" />&nbsp; Bus dalam masa Maintenance</strong></p>",
     "cuaca": "Cerah Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 6
   },
   {
     "uniqid": "6110afbee654b",
@@ -2181,7 +2362,8 @@
     "priority": 2,
     "timetable": "",
     "cuaca": "Hujan Ringan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 6
   },
   {
     "uniqid": "6110b02bc254d",
@@ -2193,7 +2375,8 @@
     "priority": 3,
     "timetable": "",
     "cuaca": "Hujan Ringan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 6
   },
   {
     "uniqid": "6110b0bc72bb8",
@@ -2205,7 +2388,8 @@
     "priority": 4,
     "timetable": "",
     "cuaca": "Hujan Lebat",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 6
   },
   {
     "uniqid": "6110b102d614e",
@@ -2217,7 +2401,8 @@
     "priority": 5,
     "timetable": "",
     "cuaca": "Hujan Lebat",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 6
   },
   {
     "uniqid": "6110b186d9b75",
@@ -2229,7 +2414,8 @@
     "priority": 6,
     "timetable": "",
     "cuaca": "Hujan Lebat",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 6
   },
   {
     "uniqid": "6110b1ba6532f",
@@ -2241,7 +2427,8 @@
     "priority": 7,
     "timetable": "",
     "cuaca": "Hujan Ringan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 6
   },
   {
     "uniqid": "6110b1e61b5f7",
@@ -2253,7 +2440,8 @@
     "priority": 8,
     "timetable": "",
     "cuaca": "Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 6
   },
   {
     "uniqid": "6110b2170af16",
@@ -2265,7 +2453,8 @@
     "priority": 9,
     "timetable": "",
     "cuaca": "Cerah Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 6
   },
   {
     "uniqid": "6110b27516a8d",
@@ -2277,7 +2466,8 @@
     "priority": 10,
     "timetable": "",
     "cuaca": "Cerah Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 6
   },
   {
     "uniqid": "6110b2c5e053b",
@@ -2289,7 +2479,8 @@
     "priority": 11,
     "timetable": "",
     "cuaca": "Cerah Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 6
   },
   {
     "uniqid": "6110b3351ace4",
@@ -2301,7 +2492,8 @@
     "priority": 12,
     "timetable": "",
     "cuaca": "Cerah Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 6
   },
   {
     "uniqid": "6110b36278051",
@@ -2313,7 +2505,8 @@
     "priority": 13,
     "timetable": "",
     "cuaca": "Cerah Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 6
   },
   {
     "uniqid": "5bac8a28f295f",
@@ -2325,7 +2518,8 @@
     "priority": 14,
     "timetable": "",
     "cuaca": "Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 6
   },
   {
     "uniqid": "62f4fb5ff0925",
@@ -2337,7 +2531,8 @@
     "priority": 15,
     "timetable": "",
     "cuaca": "Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 6
   },
   {
     "uniqid": "5bac8c593647f",
@@ -2349,7 +2544,8 @@
     "priority": 16,
     "timetable": "",
     "cuaca": "Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 6
   },
   {
     "uniqid": "5bac950e054e3",
@@ -2361,7 +2557,8 @@
     "priority": 17,
     "timetable": "",
     "cuaca": "Hujan Ringan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 6
   },
   {
     "uniqid": "6321cf04e03dc",
@@ -2373,7 +2570,8 @@
     "priority": 18,
     "timetable": "",
     "cuaca": "Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 6
   },
   {
     "uniqid": "6321cf3bdce1b",
@@ -2385,7 +2583,8 @@
     "priority": 19,
     "timetable": "",
     "cuaca": "Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 6
   },
   {
     "uniqid": "6321cf60635e6",
@@ -2397,7 +2596,8 @@
     "priority": 20,
     "timetable": "",
     "cuaca": "Hujan Sedang",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 6
   },
   {
     "uniqid": "6321cfe4b7d23",
@@ -2409,7 +2609,8 @@
     "priority": 23,
     "timetable": "",
     "cuaca": "Hujan Ringan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 6
   },
   {
     "uniqid": "6321d020dd369",
@@ -2421,7 +2622,8 @@
     "priority": 24,
     "timetable": "",
     "cuaca": "Hujan Sedang",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 6
   },
   {
     "uniqid": "6321d04994b66",
@@ -2433,7 +2635,8 @@
     "priority": 25,
     "timetable": "",
     "cuaca": "Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 6
   },
   {
     "uniqid": "6321d07d2a1bc",
@@ -2445,7 +2648,8 @@
     "priority": 26,
     "timetable": "",
     "cuaca": "Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 6
   },
   {
     "uniqid": "5bac9d515ee85",
@@ -2457,7 +2661,8 @@
     "priority": 27,
     "timetable": "",
     "cuaca": "Hujan Ringan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 6
   },
   {
     "uniqid": "62f4fbccb20bc",
@@ -2469,7 +2674,8 @@
     "priority": 28,
     "timetable": "",
     "cuaca": "Hujan Ringan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 6
   },
   {
     "uniqid": "5bac9d6c25bb5",
@@ -2481,7 +2687,8 @@
     "priority": 29,
     "timetable": "",
     "cuaca": "Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 6
   },
   {
     "uniqid": "62f4fc61b37de",
@@ -2493,7 +2700,8 @@
     "priority": 30,
     "timetable": "",
     "cuaca": "Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 6
   },
   {
     "uniqid": "6110b39ddf70c",
@@ -2505,7 +2713,8 @@
     "priority": 31,
     "timetable": "",
     "cuaca": "Cerah Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 6
   },
   {
     "uniqid": "6115e77c5a0ec",
@@ -2517,7 +2726,8 @@
     "priority": 32,
     "timetable": "",
     "cuaca": "Cerah Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 6
   },
   {
     "uniqid": "6110b4343e60c",
@@ -2529,7 +2739,8 @@
     "priority": 33,
     "timetable": "",
     "cuaca": "Cerah Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 6
   },
   {
     "uniqid": "6115f0a889829",
@@ -2541,7 +2752,8 @@
     "priority": 34,
     "timetable": "",
     "cuaca": "Cerah Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 6
   },
   {
     "uniqid": "6115f0fd36e19",
@@ -2553,7 +2765,8 @@
     "priority": 35,
     "timetable": "",
     "cuaca": "Cerah Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 6
   },
   {
     "uniqid": "6110b477c1b18",
@@ -2565,7 +2778,8 @@
     "priority": 36,
     "timetable": "",
     "cuaca": "Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 6
   },
   {
     "uniqid": "6115f16f3c7b7",
@@ -2577,7 +2791,8 @@
     "priority": 37,
     "timetable": "",
     "cuaca": "Hujan Ringan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 6
   },
   {
     "uniqid": "6110b4aa93521",
@@ -2589,7 +2804,8 @@
     "priority": 38,
     "timetable": "",
     "cuaca": "Hujan Lebat",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 6
   },
   {
     "uniqid": "6110b4fa76899",
@@ -2601,7 +2817,8 @@
     "priority": 39,
     "timetable": "",
     "cuaca": "Hujan Lebat",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 6
   },
   {
     "uniqid": "6110b537b6bf4",
@@ -2613,7 +2830,8 @@
     "priority": 40,
     "timetable": "",
     "cuaca": "Hujan Lebat",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 6
   },
   {
     "uniqid": "6110b596eabea",
@@ -2625,7 +2843,8 @@
     "priority": 41,
     "timetable": "",
     "cuaca": "Hujan Ringan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 6
   },
   {
     "uniqid": "6110b5d555539",
@@ -2637,7 +2856,8 @@
     "priority": 42,
     "timetable": "",
     "cuaca": "Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 6
   },
   {
     "uniqid": "5adea0c5aa6a4",
@@ -2649,7 +2869,8 @@
     "priority": 43,
     "timetable": "",
     "cuaca": "Cerah Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 6
   },
   {
     "uniqid": "5adea1162bbc3",
@@ -2661,6 +2882,7 @@
     "priority": 44,
     "timetable": "",
     "cuaca": "Cerah Berawan",
-    "tanggal": "2022-10-21 12:05:00"
+    "tanggal": "2022-10-21 12:05:00",
+    "rute": 6
   }
 ]
