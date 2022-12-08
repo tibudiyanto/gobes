@@ -36,11 +36,11 @@ const NearestHalte = ({ nearestHalte }: { nearestHalte: { halte: Halte; distance
   );
 };
 
-const Schedule = ({ allHalte, lat = -7.288393, lon = 112.677276 }: { allHalte: Halte[]; lat: number; lon: number }) => {
-  const nearestHalte = useThreeNearestHalte({ allHalte, lat, lon });
+const Schedule = ({ allHalte, location }: { allHalte: Halte[]; location: Location }) => {
+  const nearestHalte = useThreeNearestHalte({ allHalte, ...location });
   return (
     <VStack w="100%" alignItems="start">
-      <YourLocation location={{ lat, lon }} />
+      <YourLocation location={location} />
       <NearestHalte nearestHalte={nearestHalte} />
     </VStack>
   );

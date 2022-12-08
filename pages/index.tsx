@@ -2,6 +2,7 @@ import { Heading, Flex, Text, Button, ChakraProps, VStack } from "@chakra-ui/rea
 import { NextPageContext } from "next";
 import Head from "next/head";
 import { AppShell } from "../components/AppShell";
+import { useGPS } from "../hooks/useGPS";
 import { Halte } from "../types";
 import { api } from "../utils/requests";
 import { Schedule } from "../views/schedule";
@@ -34,7 +35,7 @@ const NoGPS = () => {
 };
 
 export default function Home({ allHalte }: { allHalte: Halte[] }) {
-  const hasGPS = true;
+  const location = useGPS();
 
   return (
     <AppShell>
@@ -49,7 +50,7 @@ export default function Home({ allHalte }: { allHalte: Halte[] }) {
       </Flex>
 
       <Flex flexGrow={1} h="100%">
-        {hasGPS ? <Schedule allHalte={allHalte} /> : <NoGPS />}
+        {location.lat ? <Schedule allHalte={allHalte} location={location} /> : <NoGPS />}
       </Flex>
       <Footer></Footer>
     </AppShell>
