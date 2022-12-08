@@ -1,7 +1,9 @@
 import { Heading, Flex, Text, Button, ChakraProps, VStack } from "@chakra-ui/react";
+import { NextPageContext } from "next";
 import Head from "next/head";
-import { ReactPropTypes } from "react";
 import { AppShell } from "../components/AppShell";
+import { Halte } from "../types";
+import { api } from "../utils/requests";
 import { Schedule } from "../views/schedule";
 
 // TODO:
@@ -31,7 +33,7 @@ const NoGPS = () => {
   );
 };
 
-export default function Home() {
+export default function Home({ allHalte }: { allHalte: Halte[] }) {
   const hasGPS = true;
 
   return (
@@ -47,9 +49,20 @@ export default function Home() {
       </Flex>
 
       <Flex flexGrow={1} h="100%">
-        {hasGPS ? <Schedule /> : <NoGPS />}
+        {hasGPS ? <Schedule allHalte={allHalte} /> : <NoGPS />}
       </Flex>
       <Footer></Footer>
     </AppShell>
   );
+}
+
+export async function getStaticProps(context: NextPageContext) {
+  const res = await api.get("halte");
+  const allHalte = await res.json();
+
+  return {
+    props: {
+      allHalte,
+    }, // will be passed to the page component as props
+  };
 }
