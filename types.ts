@@ -21,6 +21,7 @@ export type Halte = {
   arah: number;
   priority: number;
   timetable: string;
+  rute: number;
 };
 
 export type Location = {
