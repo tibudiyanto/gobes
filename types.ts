@@ -28,3 +28,8 @@ export type Location = {
   lat: number;
   lon: number;
 };
+
+export type Bus = {
+  info: string;
+  location: Location;
+};
