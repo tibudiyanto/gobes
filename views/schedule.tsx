@@ -2,6 +2,8 @@ import { Box, Text, Button, Flex, HStack, VStack } from "@chakra-ui/react";
 import React from "react";
 import { Halte, Location } from "../types";
 import { useThreeNearestHalte } from "../hooks/useNearestHalte";
+import { useRoute } from "../hooks/useRoute";
+import { Routes } from "./routes";
 
 const HalteButton = ({
   halte,
@@ -74,12 +76,15 @@ const NearestHalte = ({
 const Schedule = ({ allHalte, location }: { allHalte: Halte[]; location: Location }) => {
   const [selectedHalte, setSelectedHalte] = React.useState<string | null>(null);
   const nearestHalte = useThreeNearestHalte({ allHalte, ...location });
+  const routes = useRoute({ busStop: selectedHalte });
 
   return (
     <VStack w="100%" alignItems="start">
       <YourLocation location={location} />
       <NearestHalte nearestHalte={nearestHalte} selectedHalte={selectedHalte} setSelectedHalte={setSelectedHalte} />
-      {JSON.stringify(selectedHalte)}
+      <Box>
+        <Routes routes={routes.data?.data} currLocation={location} />
+      </Box>
     </VStack>
   );
 };

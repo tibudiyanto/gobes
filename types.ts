@@ -33,3 +33,7 @@ export type Bus = {
   info: string;
   location: Location;
 };
+
+export type BusRoute = {
+  [key: string]: Bus[];
+};
