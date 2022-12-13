@@ -80,6 +80,12 @@ const Schedule = ({ allHalte, location }: { allHalte: Halte[]; location: Locatio
 
   const halteLocation = selectedHalte ? { lat: selectedHalte.lat, lon: selectedHalte.lon } : location;
 
+  React.useEffect(() => {
+    if (!selectedHalte && nearestHalte.length) {
+      setSelectedHalte(nearestHalte[0].halte);
+    }
+  }, [selectedHalte, nearestHalte]);
+
   return (
     <VStack w="100%" alignItems="start">
       <YourLocation location={location} />

@@ -11,9 +11,8 @@ import { Schedule } from "../views/schedule";
 // 1. Ask for GPS location permission
 // 2. Fetch closest Halte
 // 3. Fetch closest Halte's bus schedule
-
 const Header = () => {
-  return <Heading>GOBES: Bukan GOBIS</Heading>;
+  return <Heading>Suroboyo Bus</Heading>;
 };
 
 const Footer = (props: ChakraProps) => {
