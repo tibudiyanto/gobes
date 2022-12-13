@@ -1,41 +1,44 @@
 import { Box, Heading } from "@chakra-ui/react";
 import { Bus, BusRoute, Location } from "../types";
-import haversine from "haversine-distance";
+import { getDistance } from "../utils/distance";
 
-function getDistance({ source, destination }: { source: Location; destination: Location }) {
-  const d = haversine(source, destination);
-  return d;
-}
-
-const Buses = ({ buses, currLocation }: { buses: Bus[]; currLocation: Location }) => {
+const Buses = ({ buses, halteLocation }: { buses: Bus[]; halteLocation: Location }) => {
   if (!buses.length) {
     return <Box>Tidak ada bus</Box>;
   }
+  const busWithDistance = buses.map(({ info, location }) => {
+    const distance = getDistance({ destination: halteLocation, source: location });
+    return { info, location, distance };
+  });
 
-  const busesLocation = buses.map(({ info, location }) => {
-    const distance = getDistance({ destination: currLocation, source: location });
+  busWithDistance.sort((a, b) => {
+    return a.distance - b.distance;
+  });
+
+  const busesLocation = busWithDistance.map(({ info, location }) => {
+    const distance = getDistance({ destination: halteLocation, source: location });
     return (
       <Box key={info}>
-        {info} {distance}
+        {info} {(distance / 1000).toFixed(2)} km
       </Box>
     );
   });
   return <>{busesLocation}</>;
 };
 
-const RouteAndBuses = ({ route, buses, currLocation }: { route: string; buses: Bus[]; currLocation: Location }) => {
+const RouteAndBuses = ({ route, buses, halteLocation }: { route: string; buses: Bus[]; halteLocation: Location }) => {
   return (
     <Box>
       <Heading>{route}</Heading>
-      <Buses buses={buses} currLocation={currLocation} />
+      <Buses buses={buses} halteLocation={halteLocation} />
     </Box>
   );
 };
 
-const Routes = ({ routes, currLocation }: { routes: BusRoute | undefined; currLocation: Location }) => {
+const Routes = ({ routes, halteLocation }: { routes: BusRoute | undefined; halteLocation: Location }) => {
   if (!routes) return <Box>No Route</Box>;
   const routesAndBus = Object.entries(routes).map(([route, buses]) => {
-    return <RouteAndBuses route={route} buses={buses} currLocation={currLocation} />;
+    return <RouteAndBuses key={`rute-${route}`} route={route} buses={buses} halteLocation={halteLocation} />;
   });
 
   return <>{routesAndBus}</>;

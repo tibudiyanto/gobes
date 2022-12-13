@@ -51,8 +51,8 @@ const NearestHalte = ({
   setSelectedHalte,
 }: {
   nearestHalte: { halte: Halte; distance: number }[];
-  selectedHalte: null | string;
-  setSelectedHalte: React.Dispatch<React.SetStateAction<string | null>>;
+  selectedHalte: null | Halte;
+  setSelectedHalte: React.Dispatch<React.SetStateAction<Halte | null>>;
 }) => {
   return (
     <HStack>
@@ -61,10 +61,10 @@ const NearestHalte = ({
           <HalteButton
             key={`halte-${halte.uniqid}`}
             halte={halte}
-            isSelected={halte.uniqid === selectedHalte}
+            isSelected={halte.uniqid === selectedHalte?.uniqid}
             distance={distance}
             onClick={() => {
-              setSelectedHalte(halte.uniqid);
+              setSelectedHalte(halte);
             }}
           />
         );
@@ -74,16 +74,18 @@ const NearestHalte = ({
 };
 
 const Schedule = ({ allHalte, location }: { allHalte: Halte[]; location: Location }) => {
-  const [selectedHalte, setSelectedHalte] = React.useState<string | null>(null);
+  const [selectedHalte, setSelectedHalte] = React.useState<Halte | null>(null);
   const nearestHalte = useThreeNearestHalte({ allHalte, ...location });
-  const routes = useRoute({ busStop: selectedHalte });
+  const routes = useRoute({ busStop: selectedHalte?.uniqid });
+
+  const halteLocation = selectedHalte ? { lat: selectedHalte.lat, lon: selectedHalte.lon } : location;
 
   return (
     <VStack w="100%" alignItems="start">
       <YourLocation location={location} />
       <NearestHalte nearestHalte={nearestHalte} selectedHalte={selectedHalte} setSelectedHalte={setSelectedHalte} />
       <Box>
-        <Routes routes={routes.data?.data} currLocation={location} />
+        <Routes routes={routes.data?.data} halteLocation={halteLocation} />
       </Box>
     </VStack>
   );

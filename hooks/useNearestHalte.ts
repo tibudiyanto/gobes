@@ -1,6 +1,6 @@
 import React from "react";
 import { Halte, Location } from "../types";
-import haversine from "haversine-distance";
+import { getDistance } from "../utils/distance";
 
 function useThreeNearestHalte({ allHalte, lat, lon }: { allHalte: Halte[]; lat: number; lon: number }) {
   const [threeNearestHalte, setThreeNearestHalte] = React.useState<{ halte: Halte; distance: number }[]>([]);
@@ -17,11 +17,6 @@ function useThreeNearestHalte({ allHalte, lat, lon }: { allHalte: Halte[]; lat: 
   }, [lat, lon, allHalte]);
 
   return threeNearestHalte;
-}
-
-function getDistance({ source, destination }: { source: Location; destination: Location }) {
-  const d = haversine(source, destination);
-  return d;
 }
 
 function getAllHalteDistanceFromCurrentPosition({ position, allHalte }: { position: Location; allHalte: Halte[] }) {
