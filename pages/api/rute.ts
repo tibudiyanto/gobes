@@ -7,12 +7,23 @@ import { fetchBus } from "../../data/bus";
 import { Bus } from "../../types";
 
 type RouteMap = {
-  [key: number]: Bus[];
+  [key: string]: Bus[];
 };
 
 type RuteResponse = {
   message?: string | null;
   data?: RouteMap | null;
+};
+
+type RouteNumberToName = {
+  [key: number]: string;
+};
+const routeNameMap: RouteNumberToName = {
+  1: "Purabaya - Jembatan Merah",
+  2: "Barat Timur",
+  3: "Bus Tumpuk",
+  4: "Merr",
+  6: "TIJ - Yono Suwoyo",
 };
 
 export default async function handler(req: NextApiRequest, res: NextApiResponse<RuteResponse>) {
@@ -33,7 +44,7 @@ export default async function handler(req: NextApiRequest, res: NextApiResponse<
 
   for (const route of routeToFetch) {
     const res = await fetchBus(route);
-    busses[route] = res || [];
+    busses[routeNameMap[route]] = res || [];
   }
 
   res.status(200).json({ data: busses });

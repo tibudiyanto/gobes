@@ -1,4 +1,4 @@
-import { Box, Text, Button, Flex, HStack, VStack } from "@chakra-ui/react";
+import { Box, Text, Button, HStack, VStack } from "@chakra-ui/react";
 import React from "react";
 import { Halte, Location } from "../types";
 import { useThreeNearestHalte } from "../hooks/useNearestHalte";
@@ -27,7 +27,7 @@ const HalteButton = ({
     >
       <HStack>
         <Text>{halte.nama}</Text>
-        <Text fontSize="sm">({distance.toFixed(2)}m)</Text>
+        <Text fontSize="sm">({(distance / 1000).toFixed(2)} km)</Text>
       </HStack>
     </Button>
   );
@@ -55,21 +55,23 @@ const NearestHalte = ({
   setSelectedHalte: React.Dispatch<React.SetStateAction<Halte | null>>;
 }) => {
   return (
-    <HStack>
-      {nearestHalte.map(({ halte, distance }) => {
-        return (
-          <HalteButton
-            key={`halte-${halte.uniqid}`}
-            halte={halte}
-            isSelected={halte.uniqid === selectedHalte?.uniqid}
-            distance={distance}
-            onClick={() => {
-              setSelectedHalte(halte);
-            }}
-          />
-        );
-      })}
-    </HStack>
+    <Box w="100%" overflowX="scroll">
+      <HStack width={"fit-content"}>
+        {nearestHalte.map(({ halte, distance }) => {
+          return (
+            <HalteButton
+              key={`halte-${halte.uniqid}`}
+              halte={halte}
+              isSelected={halte.uniqid === selectedHalte?.uniqid}
+              distance={distance}
+              onClick={() => {
+                setSelectedHalte(halte);
+              }}
+            />
+          );
+        })}
+      </HStack>
+    </Box>
   );
 };
 
@@ -88,11 +90,13 @@ const Schedule = ({ allHalte, location }: { allHalte: Halte[]; location: Locatio
 
   return (
     <VStack w="100%" alignItems="start">
-      <YourLocation location={location} />
+      {/* <YourLocation location={location} /> */}
       <NearestHalte nearestHalte={nearestHalte} selectedHalte={selectedHalte} setSelectedHalte={setSelectedHalte} />
-      <Box>
+      {routes.isFetching ? (
+        <Text>Sek, nggoleki bus e...</Text>
+      ) : (
         <Routes routes={routes.data?.data} halteLocation={halteLocation} />
-      </Box>
+      )}
     </VStack>
   );
 };

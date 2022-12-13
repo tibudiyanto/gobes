@@ -1,4 +1,4 @@
-import { Box, Heading } from "@chakra-ui/react";
+import { Box, Flex, Heading, Text, VStack } from "@chakra-ui/react";
 import { Bus, BusRoute, Location } from "../types";
 import { getDistance } from "../utils/distance";
 
@@ -18,20 +18,29 @@ const Buses = ({ buses, halteLocation }: { buses: Bus[]; halteLocation: Location
   const busesLocation = busWithDistance.map(({ info, location }) => {
     const distance = getDistance({ destination: halteLocation, source: location });
     return (
-      <Box key={info}>
-        {info} {(distance / 1000).toFixed(2)} km
-      </Box>
+      <Flex
+        px={2}
+        w="100%"
+        justifyContent={"space-between"}
+        key={info}
+        alignItems="center"
+        direction="row"
+        border="1px solid black"
+      >
+        <Heading fontSize={"4xl"}>{info}</Heading>
+        <Flex>{(distance / 1000).toFixed(2)} km</Flex>
+      </Flex>
     );
   });
-  return <>{busesLocation}</>;
+  return <VStack width={"100%"}>{busesLocation}</VStack>;
 };
 
 const RouteAndBuses = ({ route, buses, halteLocation }: { route: string; buses: Bus[]; halteLocation: Location }) => {
   return (
-    <Box>
+    <VStack w="100%" alignItems={"start"}>
       <Heading>{route}</Heading>
       <Buses buses={buses} halteLocation={halteLocation} />
-    </Box>
+    </VStack>
   );
 };
 
@@ -41,6 +50,6 @@ const Routes = ({ routes, halteLocation }: { routes: BusRoute | undefined; halte
     return <RouteAndBuses key={`rute-${route}`} route={route} buses={buses} halteLocation={halteLocation} />;
   });
 
-  return <>{routesAndBus}</>;
+  return <VStack w="100%">{routesAndBus}</VStack>;
 };
 export { Routes };

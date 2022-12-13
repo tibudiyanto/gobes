@@ -7,12 +7,8 @@ import { Halte } from "../types";
 import { api } from "../utils/requests";
 import { Schedule } from "../views/schedule";
 
-// TODO:
-// 1. Ask for GPS location permission
-// 2. Fetch closest Halte
-// 3. Fetch closest Halte's bus schedule
 const Header = () => {
-  return <Heading>Suroboyo Bus</Heading>;
+  return <Heading fontSize="5xl">Suroboyo Bus</Heading>;
 };
 
 const Footer = (props: ChakraProps) => {
@@ -23,23 +19,30 @@ const Footer = (props: ChakraProps) => {
   );
 };
 
-const NoGPS = () => {
+const NoGPS = ({ getLocation }: { getLocation: CallableFunction }) => {
   return (
     <VStack w="100%" alignItems="center" h="100%" direction="column" justifyContent={"center"}>
       <Text>Share GPS untuk supaya sistem dapat mencari halte terdekat.</Text>
       <Text>Tenang gak tak simpen cuk.</Text>
-      <Button>Bagikan GPS</Button>
+      <Button
+        onClick={(e) => {
+          e.preventDefault();
+          getLocation();
+        }}
+      >
+        Bagikan GPS
+      </Button>
     </VStack>
   );
 };
 
 export default function Home({ allHalte }: { allHalte: Halte[] }) {
-  const location = useGPS();
+  const { location, getLocation } = useGPS();
 
   return (
     <AppShell>
       <Head>
-        <title>GOBES</title>
+        <title>Suroboyo Bus</title>
         <meta name="description" content="GOBES" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
@@ -49,7 +52,7 @@ export default function Home({ allHalte }: { allHalte: Halte[] }) {
       </Flex>
 
       <Flex flexGrow={1} h="100%">
-        {location.lat ? <Schedule allHalte={allHalte} location={location} /> : <NoGPS />}
+        {location !== null ? <Schedule allHalte={allHalte} location={location} /> : <NoGPS getLocation={getLocation} />}
       </Flex>
       <Footer></Footer>
     </AppShell>
