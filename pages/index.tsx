@@ -1,4 +1,4 @@
-import { Heading, Flex, Text, Button, ChakraProps, VStack } from "@chakra-ui/react";
+import { Heading, Flex, Text, Button, ChakraProps, VStack, Link } from "@chakra-ui/react";
 import { NextPageContext } from "next";
 import Head from "next/head";
 import { AppShell } from "../components/AppShell";
@@ -11,19 +11,10 @@ const Header = () => {
   return <Heading fontSize="5xl">Suroboyo Bus</Heading>;
 };
 
-const Footer = (props: ChakraProps) => {
-  return (
-    <Flex py={3} {...props} justifyContent="center">
-      Dibuat dengan penuh kebencian
-    </Flex>
-  );
-};
-
 const NoGPS = ({ getLocation }: { getLocation: CallableFunction }) => {
   return (
     <VStack w="100%" alignItems="center" h="100%" direction="column" justifyContent={"center"}>
-      <Text>Share GPS untuk supaya sistem dapat mencari halte terdekat.</Text>
-      <Text>Tenang gak tak simpen cuk.</Text>
+      <Text>Bagi GPS ben iso nggolek halte.</Text>
       <Button
         onClick={(e) => {
           e.preventDefault();
@@ -54,7 +45,6 @@ export default function Home({ allHalte }: { allHalte: Halte[] }) {
       <Flex flexGrow={1} h="100%">
         {location !== null ? <Schedule allHalte={allHalte} location={location} /> : <NoGPS getLocation={getLocation} />}
       </Flex>
-      <Footer></Footer>
     </AppShell>
   );
 }

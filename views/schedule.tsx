@@ -1,4 +1,4 @@
-import { Box, Text, Button, HStack, VStack } from "@chakra-ui/react";
+import { Flex, Text, Button, HStack, VStack } from "@chakra-ui/react";
 import React from "react";
 import { Halte, Location } from "../types";
 import { useThreeNearestHalte } from "../hooks/useNearestHalte";
@@ -55,7 +55,7 @@ const NearestHalte = ({
   setSelectedHalte: React.Dispatch<React.SetStateAction<Halte | null>>;
 }) => {
   return (
-    <Box w="100%" overflowX="scroll">
+    <Flex w="100%" overflowX="scroll">
       <HStack width={"fit-content"}>
         {nearestHalte.map(({ halte, distance }) => {
           return (
@@ -71,7 +71,7 @@ const NearestHalte = ({
           );
         })}
       </HStack>
-    </Box>
+    </Flex>
   );
 };
 
