@@ -59,7 +59,7 @@ export default function Home({ allHalte }: { allHalte: Halte[] }) {
   );
 }
 
-export async function getStaticProps(context: NextPageContext) {
+export async function getServerSideProps(context: NextPageContext) {
   const res = await api.get("halte");
   const allHalte = await res.json();
 
